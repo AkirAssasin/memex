@@ -1,3 +1,10 @@
+body {
+
+    /* background color
+    */
+    background-color: #222;
+}
+
 #memexContainer {
 
     /* make the container centred 
@@ -22,10 +29,15 @@
     display: inline-block;
     margin: 5px 0px;
 
-    /* appearance of the element
+    /* appearance of the div
     */
-    background-color: antiquewhite;
+    background-color: #444;
     border: 1px none;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 15px;
+    padding: 15px;
+
+    /* appearance of the text
+    */
+    font: 18px Verdana, sans-serif;
+    color: #ddd;
 }
