@@ -15,7 +15,7 @@ body {
     /* make the container columned 
     */
     columns: 250px auto;
-    column-gap: 20px;
+    column-gap: 40px;
 }
 
 .memexElement {
