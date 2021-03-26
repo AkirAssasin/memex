@@ -11,7 +11,7 @@ function insertIntoMemex (compiled) {
 
     // split compiled into single lines
     var lines = compiled.split(/\n/);
-    for (var i = 0; i < lines.length(); ++i) {
+    for (var i = 0; i < lines.length; ++i) {
 
         // temporary: insert everything
         $("#memexContainer").append("<div class=\"memexElement\">" + lines[i] + "</div>");
