@@ -11,9 +11,12 @@ function insertIntoMemex (compiled) {
 
     // split compiled into single lines
     var lines = compiled.split(/\n/);
-    for (var i = 0; i < lines.length; ++i) {
+    for (var line of lines) {
+
+        // skip empty lines
+        if (line === "") continue;
 
         // temporary: insert everything
-        $("#memexContainer").append("<div class=\"memexElement\">" + lines[i] + "</div>");
+        $("#memexContainer").append("<div class=\"memexElement\">" + line + "</div>");
     }
 }
