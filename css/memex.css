@@ -1,0 +1,31 @@
+#memexContainer {
+
+    /* make the container centred 
+    */
+    margin: auto;
+    max-width: 900px;
+
+    /* make the container columned 
+    */
+    columns: 250px auto;
+    column-gap: 20px;
+}
+
+.memexElement {
+
+    /* take the whole column width 
+    */
+    width: 100%;
+
+    /* spacing between elements 
+    */
+    display: inline-block;
+    margin: 5px 0px;
+
+    /* appearance of the element
+    */
+    background-color: antiquewhite;
+    border: 1px none;
+    border-radius: 5px;
+    padding: 5px;
+}
