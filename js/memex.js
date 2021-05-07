@@ -2,13 +2,12 @@
 function documentOnReady () {
 
     // insert test element
-    insertElementIntoMemex("In <b>\"As We May Think\"</b>, Vannevar Bush describes a memex as an electromechanical device enabling individuals to develop and read a large self-contained research library, create and follow associative trails of links and personal annotations, and recall these trails at any time to share them with other researchers.", "a");
+    insertElementIntoMemex("In <b>\"As We May Think\"</b>, Vannevar Bush describes a memex as an electromechanical device enabling individuals to develop and read a large self-contained research library, create and follow associative trails of links and personal annotations, and recall these trails at any time to share them with other researchers.", "");
     
     // fetch the memex compiled data
     fetch("data/memex.mmx").then(response => response.text()).then(text => insertCompiledIntoMemex(text));
 
     // set up pop-up window
-    $(".memexReadMore").click(showPopup);
     $("#memexPopupBlackout").click(hidePopup).children().click(e => e.stopPropagation());
     $("#memexPopupClose").click(hidePopup);
 }
@@ -49,6 +48,9 @@ function insertCompiledIntoMemex (compiled) {
         // insert element into container
         insertElementIntoMemex(summary, source);
     }
+
+    // set up pop-up buttons
+    $(".memexReadMore").click(showPopup);
 }
 
 // insert memex element into container
