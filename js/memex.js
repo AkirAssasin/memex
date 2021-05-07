@@ -46,6 +46,10 @@ function insertCompiledIntoMemex (compiled) {
         var summary = lines[i];
         var source = lines[i + 1];
 
+        // huh what
+        log(summary);
+        log(source);
+
         // insert element into container
         insertElementIntoMemex(summary, source);
     }
