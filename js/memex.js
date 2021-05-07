@@ -2,7 +2,7 @@
 function documentOnReady () {
 
     // insert test element
-    insertElementIntoMemex("In <b>\"As We May Think\"</b>, Vannevar Bush describes a memex as an electromechanical device enabling individuals to develop and read a large self-contained research library, create and follow associative trails of links and personal annotations, and recall these trails at any time to share them with other researchers.", "");
+    insertElementIntoMemex("In <b>\"As We May Think\"</b>, Vannevar Bush describes a memex as an electromechanical device enabling individuals to develop and read a large self-contained research library, create and follow associative trails of links and personal annotations, and recall these trails at any time to share them with other researchers.", "a");
     
     // fetch the memex compiled data
     fetch("data/memex.mmx").then(response => response.text()).then(text => insertCompiledIntoMemex(text));
@@ -55,7 +55,7 @@ function insertCompiledIntoMemex (compiled) {
 function insertElementIntoMemex (summary, source) {
 
     // make html element
-    var div = "<div class=\"memexElement\" mmx-source=\"" + source + "\"><p>" + summary + "<p>";
+    var div = "<div class=\"memexElement\"><p>" + summary + "<p>";
 
     // add read-more button
     if (source != "") {
