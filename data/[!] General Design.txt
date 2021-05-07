@@ -1,0 +1,101 @@
+## Pillars
+
+Set design pillars early on in the design of anything. It's essentially a word or phrase that you can easily remember and sums up the experience. Use these pillars for iteration and decision making. If a pillar doesn't work, scrap it.
+
+## Gameplay Loops
+Positive and negative gameplay loops guide the gaming experience by either encouraging or discouraging certain actions. They keep the player actively involved and developing new strategies throughout the game.
+
+The Newtonian engagement: an engaged player will remain engaged until acted upon by an outside force. Make sure the player's engagement doesn't hit a menu or option screen. The player's attention must flow to the next nearby thing in the game world, from one event to another.
+
+## Feints
+Add surprises into a routine interaction (e.g. a loading screen, opening chests, doors, elevators). It keeps the player from feeling in control and falling into a comfortable routine, inducing tension and worry to every other similar interaction. 
+
+Games that, on paper, should be exciting and thrilling proved to be boring despite the number of explosions, particle effects and screaming marines that fill the screen because they lack disruption.
+
+When the player is pushed into a new experience and enter the discomfort zone, they are motivated to learn more about the system, recourses and their capabilities, and attempt at improvement.
+
+There’s a fine line between pushing the player into the discomfort zone and unfairly screwing with the player. The key to creating an authentic ‘discomfort zone’ is to make sure there are plenty of options available to the player under the new circumstances.
+
+## Graphics 
+Some players decide whether they want to play your game based on the graphics of your game (e.g. screenshots).
+ At least the first 60 seconds of your game must be aesthetically pleasing. Particles and shader effects are also a great addition if you do them correctly. 
+
+## Music 
+Any SFX is better than none, but painful (e.g. loud, noisy) SFX will ruin the player’s mood. Abundant Music is a great music generator and GXSCC converts .midi to chiptune.
+ The ideal SFX is one that creates the appropriate atmosphere. 
+
+## Skip Option 
+In game jam judging sessions, some players don’t have time to watch the intro or go through all the levels, so let them skip after a few tries to watch the ending. 
+
+## Difficulty 
+If the game is easy for you it may be hard for others. Scale down the difficulty, have playtesters or give the player the option to change it. During jams, keep your game simple, modular and playable. Save complex processes for future development. 
+
+Difficulty doesn’t merely represent discrete challenges to be overcome by perfect execution of skills, but rather it gives the player a satisfying loop that makes them gladly assume the role that the game is putting them in. Difficulty then becomes about pulling layered executions, e.g. by throwing more things at them at once. When difficulty changes the way to play, that's more interesting. 
+
+Pinpoint what it is that testers find difficult -- whether it was the UI, or the enemies.
+
+## Instructions 
+Put instructions in­game when the player needs to use it for the first time (e.g. teach them how to attack when enemies appear for the first time). 
+
+## Level Design 
+Many easy levels are better than few hard levels. Don’t introduce more than one mechanic in a level. Make the goal very clear because some people might think differently from you. 
+
+Keys can be used to guide the player, to explore all possible rooms for their secrets, or check their map to see if they have any unvisited rooms. Pieces of equipment should also be looked at as keys for puzzles – a sword solves the monster problem, a bow solves the ranged problems and the hookshot solves the out of reach problems.
+
+When designing an encounter, start with "What do I want players to do?" 
+
+## Input
+The control scheme should able to be picked up and grasped instantly, but takes a long time to truly master. 
+
+A natural mapping is a clear, intuitive relationship between possible actions and their effect on the system. There’s no explanation or instruction needed because the position and motion of the input device correlates exactly to the position and motion of the thing being controlled in the game. 
+
+Consider the sensitivity of your input device relative to how fluid and expressive you want your game to be. 
+
+Switching between input devices should be automatic and based on usage. Players should be able to play the game and navigate menus using any single input device.
+Whenever the input device is changed, all on-screen button icons should change to match the corresponding device. 
+
+Disable mouse and hover events when using gamepads.
+
+When the player is using a gamepad and the gamepad gets disconnected, the game should pause.
+
+## Response
+Reaction sensitivity is created by mapping user input to game reaction to produce more sensitivity in the overall system. 
+
+Sensitivity across time, as in acceleration, holding jump to jump higher. 
+
+Sensitivity by allowing combinations of buttons to have different meanings from the pressing of those buttons individually. 
+
+The result of all these kinds of nuanced reactions to input is a highly fluid motion.
+
+Do you surprise yourself with what you can express or accomplish with your controls? Does the act of playing create something aesthetically pleasing? Do you find yourself wasting time noodling around? Does it feel like you’re building a meaningful skill? Then it’s time to give this motion some spatial meaning.
+
+## Context
+Constraints define sensation. If objects are packed in, the game will feel clumsy and oppressive, causing anxiety and frustration. As objects get spaced further apart, game feel becomes increasingly saturated into boredom.
+
+## Polish
+Polish can include sprays or dustings of particles where things hit or interact, screen shake, view angle shifts, or the squash and stretch of objects colliding. The point is to convey the physical properties of objects through their motion and interaction. Any effect (motion, visuals, sounds, tactile sensation etc.) that enhances the impression that the game world has its own self consistent physics is fair game.
+
+## Metaphor
+You need to take a step back and decide how much of your metaphor to represent in the prototype to get an accurate read on the game feel you’re building. If it’s going to be a car, it needs to read and feel like a car. Look at how you can use preloaded conceptions to set up, and execute on, expectations for how a thing should feel and behave when controlled.
+
+## Rules and Goals
+
+Players play games to think – to solve problems, like combat or strategy.
+
+You’re looking for longer-period objectives to give additional meaning to the sensation of control and mastery. These kinds of higher order goals provide sustainability. Completing a goal also means some kind of reward, no matter how meager. If you can’t come up with a bunch of different goals that are enjoyably challenging, that’s trouble. It might be time to abandon or significantly alter your mechanic.
+
+Just throw a bunch of goals in there. You’ve already developed a bunch of intrinsic, internalized goals: can I do a flip off this thing, can I get up there, can I do two flips before I land and so on. Just throw these in there and codify them. There’s really not a good way to get an objective read on depth unless you watch a bunch of people play the game. 
+
+Achievements add a crucial goal to the games scoring, elusiveness and outrageous challenge gives the player reason to continue playing. Achievements should force a player to play a game differently. 
+
+## Replayability
+Bitesized sessions and the ease and speed of retrying. Burdening the player with even a few seconds of loading would be enough to lose the player’s interest. 
+
+Achievements add another layer of replayability to the game, encouraging to the player to reach for goals outside of the leaderboard and playing for playing’s sake.
+
+## Cozy Design
+Cozy design evokes the fantasy of safety, abundance, and softness. Risk and danger are minimized. Nothing is lacking or urgent. Stimuli are gentle and comforting.
+
+Aspects which may negate coziness include extrinsic rewards, dangers or threats, responsibility, distractions, intense stimulus, vast distances, non-consensual social situations, confinement, deception, and opulence. These can be used to enhance coziness if they are safely outside the player’s defined cozy space by providing contrast and juxtaposition. 
+
+Coziness requires intrinsic satisfaction from the activity.

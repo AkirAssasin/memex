@@ -1,0 +1,9 @@
+Combat design should establish predictability for players, so they can make and execute plans, tight pacing, and also a sense of a story within the battle. However, there should still be variety. Fights are performances.
+
+You can use the player's stats as a baseline value from which enemies’ stats would be calculated.
+
+For AI it always makes sense to pile on one person and just murder them completely, but for the player it really just sucks. Let players feel threat piling up and not having their characters ganged and one-shotted without being able to respond.
+
+If they want a player’s character to ideally be killed in five hits, they have enemies’ damage output kill them in 4.5 hits. The character still dies in five hits, but their HP bar will look more depleted and have just a sliver left before they receive the final blow.
+
+Players hate to hit armor. The player will almost always go for the unarmored enemy first, just for the pure joy of digging into HP. To counter this, make hits to armor as satisfying as hitting health.

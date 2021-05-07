@@ -1,0 +1,11 @@
+A game can either have an open world where the player can move freely, or a world that changes as the plot advances. If it has both, the player will miss out on most of the game’s content.
+
+In Skyrim, time is essentially frozen until players go to a particular place, which can destroy suspension of disbelief.
+
+Here are three ways to get around this:
+
+- Not having an overarching main plot that would require any kind of timing.
+- Make the player move in a fixed path following the timeline.
+- Alternate between large open-world-like levels with free player movement and fixed timeline progression between the levels.
+
+Obviously constraining player movement or making the world static makes games feel less alive. To ameliorate this, constrain player movement in subtle ways, don't change the world too much, and use stats to change things without having to completely rewrite them.

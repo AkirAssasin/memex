@@ -1,0 +1,24 @@
+You can encourage players to play a certain way by making them understand how to do so.
+
+To encourage players to stealth through an encounter, they need to be able to:
+
+Have a safe and readable starting point to form a plan
+Understand enemy routes and behaviors as they move through the space
+Easily identify useful traversal routes through the space
+
+When planning enemy movement, deliberately allow a window of opportunity for players to kill them.  This makes players feel rewarded for taking their time and observing their enemies.
+
+Embrace verticality in stealth spaces to provide a different perspective and choice.
+
+To get the most out of a level, we need to go beyond difficulty and delve into player experience. It ensures the level does not feel repetitive because the emotional impact of each encounter is different from one another.  I’m not saying difficulty should not be tuned.  I am saying that difficulty should be tuned to fit the emotional impact of the encounter based on how far into the game the encounter exists.
+
+Gameplay Example
+
+Let’s take a look at the application of this concept in action with the classic Golden Cat mission from the original Dishonored.  The Golden Cat is a brothel the player must sneak into and reach an objective on the upper floor of the building.  The outside of the building is an outpost encounter with lots of traversal options and different entrances into the brothel for the player to find.  Below is a picture of the building the player must sneak into.
+
+
+
+Fig: Golden Cat building from Dishonored
+
+The player gets the confident feeling from the outpost encounter, but then the intensity cranks up as the player enters the brothel and must deal with limited approach encounters to reach the objective.  Notice from the below top down map of the interior how the geometry pinches, which along with enemy pathing, create a tense feeling for the player.
+

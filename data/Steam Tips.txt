@@ -1,0 +1,21 @@
+Tips for Steam Certification:
+
+ - if your trailer has storefront logos, make sure it has steam's logo
+ - auto pause the game and input when a Steam overlay is opened
+ - make sure the game actually works after installed through Steam
+ - don't link to other storefronts in the steam page description
+ - it takes a few days to get through certification
+
+Tips for Steam Marketing:
+
+ - start wishlisting campaigns early
+ - expect a ~10% conversion rate from wishlister to buyer
+ - post frequent progress updates
+ - setup a Google Alert with your game name
+ - add your game to Giantbomb.com so streamers can select your game
+ - add your game to Twitch with box art
+ - create a Steam homepage for your studio
+ - use the "connect with curators" feature
+ - ask for reviews from anyone you can get
+ - send a press release to mail@gamespress.com and other contacts
+ - use Keymailer to send keys to steamers, youtubers and review sites

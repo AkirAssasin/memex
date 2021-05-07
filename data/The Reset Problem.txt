@@ -1,0 +1,3 @@
+When too much content is reset upon losing or winning (e.g. self-contained matches or sparse checkpoints), players learn less and less in the earlier parts and not often enough in the later parts. Neither part reliably and regularly confronts them with interesting gameplay appropriate to their skill level.
+
+To solve this in match-based games, the game has to determine the skill of the player continually with every new match and adjust accordingly.

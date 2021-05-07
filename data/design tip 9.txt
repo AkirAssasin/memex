@@ -1,0 +1,11 @@
+Suppose the player has to choose a strategy in a situation. There are two possible extremes for the scale here. 
+
+1. No matter which choice you make, it won't affect your odds of winning the game. This situation has a very high headroom. The player can mess around with their strategy at will without risk of the game limiting them.
+
+High-headroom games allow inferior players to make a number of inferior choices and still win, which means that win rate among the game's better players becomes dependent not on how good they are, but on how hard they are trying to win. However, the game is going to be easy for an experienced player. A high-headroom game also gives players no real incentive to switch tactics.
+
+2. Only one option leads to success. This situation has zero headroom, and if the player does not have sufficient information, the player will fail.
+
+Low-headroom games may lack replay value because you have to go with the choice the game gives you, even if it's one you don't enjoy A low-headroom game will thus alienate some proportion of players no matter what it does. For a player unspoiled on strategy, it feels like they died to something that they couldn't have known about.
+
+Acknowledge that you're not going to be able to keep everyone happy.

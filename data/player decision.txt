@@ -1,0 +1,5 @@
+Bomber Crew - a flight battle sim game.
+
+Keep the player engaged with decision making. 
+
+Allow the player to make decisions without making the crew redundant. Any control we give to the player is achievable in a few clicks, and using simple interfaces, so their attention is not taken away from the crew as a whole for too long.

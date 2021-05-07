@@ -1,0 +1,1 @@
+Most of the enemies in Twinfold were created to counter a single gameplay mechanic. Grays don’t move, blues aren’t affected by walls, purples don’t fall into pits, reds don’t get hurt when squashed against walls. Each of those enemy types requires the player to use a slightly different strategy to deal with them.

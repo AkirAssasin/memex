@@ -1,0 +1,11 @@
+
+
+A method to generate organic platforming rooms:
+
+Generate some tiles in each corner of the room in a roughly concave manner, then mold the emptier parts of the room with some convex shapes.
+
+Next, generate a random amount of floating shapes around the room. Let them overlap if it happens.
+
+Make sure the player can reach every exit, then check that the player can make every jump. Generate some steps to help players with impossible jumps.
+
+Keep it clean and coherent.

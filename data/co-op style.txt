@@ -1,0 +1,13 @@
+There are 4 different styles of co-op PvE scenarios.
+
+The garage door only opens if 2 players lift the door. Once done, they have to push the car together.
+THE GATE - the players don't have to collaborate with each other until a gate blocks both of them. The 'gate' is blocked until everyone is ready to continue.
+
+The garage door can be opened by one player and the car can be pushed by one player.
+THE COMFORT - the challenge is so hard that having more than one player is a necessity. Still, the game can be completed without communication, just by following the strongest player in the team.
+
+The garage door can only be opened by a locksmith and the car can only be driven by a pilot.
+THE CLASS - each player has a unique task that only they can do in order for everyone to succeed. Sometimes requires communication.
+
+The garage door will close if a player doesn’t keep it open and any player can push the car.
+THE JOB - similar to THE CLASS, but players can trade 'jobs' at any time. However, one player is unable to complete them all at the same time.

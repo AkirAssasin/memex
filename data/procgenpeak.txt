@@ -1,0 +1,1 @@
+An interesting way to utilise procedural generation is building the level around dramatic peaks and relaxing breaks to ensure an interesting game pacing and keeping the player enthralled.

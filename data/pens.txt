@@ -1,0 +1,7 @@
+There is a model of player engagement called PENS (Player Experience of Need Satisfaction). It includes the need to feel competent, the need to have autonomy and the desire to connect with others.
+
+Both Competence and Autonomy heavily rely on the player's ability to plan. Resource management system works well to increase planning.
+
+Thomas Grip's theory is that the more actions the player can string together in a plan, the better the gameplay feels.
+
+The main reason that people find some games unengaging is because the game doesn't allow them to form and execute plans.

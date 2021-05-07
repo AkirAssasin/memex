@@ -1,0 +1,29 @@
+## Player Performance
+Using player performance to influence enemy spawning is a great way to compliment procedural enemy types. 
+
+## Mimicry
+Level generation should mimic the rules the developers use to create hand-placed levels. Without a delicate set of rules in place, procedural generation results in an array of flavorless or frustrating experiences.
+
+To give procedural generation a handcrafted feel, use a large repository of hand-made rooms and connect them. This gives you more control over things like distance between checkpoints or types of enemies that can spawn. However, it's better at some times to have a strong, smaller set of elements than a large set of weak ones. 
+
+## Cyclic Paths
+Don't randomly reconnect pathways to fake depth - when connecting two points, create a cycle consisting of two paths connecting the entrance to the goal instead. Paths can have different variations based on their absolute length and relative length to it's cycle.
+
+## Balancing
+Balance is important, but if all elements are balanced too much across the board, playthroughs can feel similar. By creating unique elements to each goal, even if they feel somewhat unbalanced, it can draw a player to try new ones out based on their unique problems and bonuses.
+
+Instead of a % chance of spawning an item, set a random number of levels passed before spawning an item (e.g. spawn a medikit after r levels) for easier balancing.
+
+## Interest
+By keeping certain procedural elements tied into each other, the developer can assure that they will always be relevant and interesting to the player.
+
+Create specialness with things like rare items and encounters.
+
+## Notice
+You might need to be fairly blunt or extreme with your systems if you want your generated behaviour and personality to be noticed and understood correctly. Extreme behaviours and personalities are easier to see and understand. Actions are easier to see than non-actions.
+
+## Visuals
+Generate different visual experiences alongside other elements. That first sense of discovery in many games comes from simply finding a place that looks different.
+
+Procedurally generated action will require players to read information on-screen quickly without having to focus on it. Telegraph clearly, and give player the means to react accordingly.
+

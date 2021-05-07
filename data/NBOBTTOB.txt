@@ -1,0 +1,3 @@
+Breath of the Wild implements few artificial barriers on the player, instead using a stamina system to keep them from just going where they want, when they want.
+
+Use art design to keep players flowing through the open world. 

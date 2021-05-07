@@ -1,0 +1,7 @@
+Aspirational difficulty is how well you have to be able to play to win. It doesn't matter how bad at it I am the first 99 tries if I hit it on the 100th.
+
+Continuous difficulty is how well you have to play to not lose. If you screw it up you have to start all over again.
+
+Most games comprise a mix of both. In many games continuous difficulty maps to defense and aspirational difficulty maps to offense.
+
+Understanding the different ways in which a game can be difficult, and that different forms of difficulty effect players in different ways, allows us to better understand how to create the specific kind of tension we want in players of all skill levels.

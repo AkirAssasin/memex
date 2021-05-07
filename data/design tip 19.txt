@@ -1,0 +1,9 @@
+The greater the player's situational awareness, the lower the difficulty. By changing this factor, difficulty can be varied between levels.
+
+Low situational awareness (e.g. flashlight in a dark room) can make small spaces seem larger, increase caution and promote exploration.
+
+Consider that the size of a game space is always filtered through the camera; hence, in terms of a hierarchy of difficulty metrics, virtual space will always be secondary.
+
+The more correction cycles the player is forced to undertake, the higher the difficulty.
+
+In FPSes, it seems that world movement change is preferred above excessive view frustum changes. In most cases, a player will choose to backpedal first with minimal changes to view position.

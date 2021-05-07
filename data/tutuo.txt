@@ -1,0 +1,21 @@
+A tutorial should equip the player with the knowledge and mindset to understand the game world, and how to apply those to different situations.
+
+Showing information beforehand and out of context will not stick in most cases. Give instructions only when they are relevant.
+
+Many teachings focus only on the "read" part, neglecting the "write". In order to ensure a complete understanding of the game world, the instructions need to be embedded in the world, have relevancy and make the players understand why they are doing something.
+
+Reduce the possibilities of action to not overwhelm the player, and add mechanics one at a time.
+
+Make it possible to skip or rush through parts of the tutorials, if player is experienced.
+
+Let the player make mistakes in a safe environment first.
+
+Determine which parts have to be explained and which the player can figure out by themselves.
+
+Have different ways of teaching the game.
+
+Create a narrative scenario in which teaching makes sense in the game world.
+
+The beginning of the game is the most important part, it decides if the players keep playing or quit it and never play again. Incorporate the beginning of the story into the tutorial to make it memorable. The tutorial can be used to not only introduce the main mechanics of the game but also characters and plot lines.
+
+Ideally learning in a game never stops, with every jump the player gets better, with every battle they improve their tactics and with every failure they learn to adjust.

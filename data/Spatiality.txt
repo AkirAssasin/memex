@@ -1,0 +1,9 @@
+Game mechanics that deal with spatiality can deepen gameplay. They make the game strategically interesting because it makes it harder to just calculate everything. Although based on math as well, it is more intuitively accessible for human beings. However, the actions players are able to perform have to be tightly connected to the game's spatial structure.
+
+In Heat Signature, almost everything in the game is centered on movement. There is no flat number crunching. The focus of the game lies on finding creative ways to bypass enemies with gadgets that aid movement or teleports you. Tactical options emerge through consistent rules, spatially meaningful verbs and allowing players to plan ahead.
+
+All the elements in Spelunky are tailored to interact with moving around its incredibly hostile environment. Items give players new ways to traverse the space. Enemies follow consistent movement rules. This allows the procedural level generation to generate a large variety of interesting situations and confront players with new challenges.
+
+Card games can also develop spatiality. Gwent, Crimson Company and Artifact emphasizes positioning (which rows do you place the cards, with scarce space). Hearthstone has cards that apply effects to adjacent targets.
+
+Portal is all about an unusual way of movement. The battle royale genre is based on spreading, then converging the players over time. The core of every pushing-lane MOBA is a fundamentally spatial mechanic.

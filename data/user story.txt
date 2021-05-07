@@ -1,0 +1,29 @@
+A User Story/Journey is a non-technical description of how a player would interact with an element of a game, focusing on their experience and emotions. These help you describe why a game would need a certain element.
+
+Here's a template for a user story:
+
+1. Informing
+How will the player find out about the new features?
+
+- brief text hints or patch release notes
+- in-game notifications and markers
+- provide a testing chamber or playground to test it out
+- new quests to obtain the feature
+- putting new features at the top of menus or shops
+etc. 
+
+2. Clarifying
+How will the player understand how to use it?
+
+- new gameplay mode devoted to that feature
+- watching other players using it
+etc.
+
+3. Feedback
+How to help players use it?
+
+- distinct icons and appearance
+- visual confirmation and warnings
+- effective plays and counterplays
+- the feature itself is not frustrating to use
+etc.

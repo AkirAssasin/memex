@@ -1,0 +1,3 @@
+Respawn found that when they added view-bob but kept the crosshair fixed, some players felt nauseous. Hence, they avoided having a disconnection between what players see on screen and what the player is trying to do.
+
+Take into account all of the player's senses when they use the controls. What they see when they do it, and when others do it. Let them feel every impact.

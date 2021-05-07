@@ -1,0 +1,3 @@
+The most important aspect of player death is the consequence. If death will be frequent and necessary for progress, build your game around that concept.
+
+The more systemic and unauthored a game is, the more it can support and cushion failure. For example, in a stealth game, being detected does not immediately lead to a Game Over.

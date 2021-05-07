@@ -1,0 +1,6 @@
+We scroll to interact everywhere. When scrolling, you either go up or down. This makes it almost effortless to operate in contrast with clicking, which requires greater deliberation and decision.
+
+Allow rapid, incremental, reversible scrolling, sensitive to magnitude. Provide instantaneous, consistent feedback. Have visual feedback when the user reaches the top or bottom to increase responsiveness.
+
+Make it predictable and easy to control!
+

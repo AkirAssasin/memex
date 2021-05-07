@@ -1,0 +1,10 @@
+One of the most powerful ways of making choices interesting is to make them meaningful: touching values, emotions, concepts that people care about.
+
+The first thing we need to consider is player motivation. 
+Presenting the player with an outside goal to “beat the game” gives external motivation. 
+Building worlds players want to spend time in, allowing players to roleplay their “ideal self” gives internal motivation.
+
+Conflict between player motivations create tension. 
+It is different from conflict between gameplay and narration (usually a bad thing).
+
+Clash 'optimum' playstyles with moral dilemmas. The external, goal-oriented motivation told you to steal. The narrative, internal motivation told you not to. This tends to generating a meaningful, difficult decision. However, make sure none of the choices leads to an inferior gameplay experience. 

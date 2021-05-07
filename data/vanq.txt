@@ -1,0 +1,5 @@
+To be fun, a game needs strong, easy-to-learn basic mechanics. Core mechanics on the other hand should be simple yet open-ended, providing players tons of creative options.
+
+There is only one meter in Vanquish, which measures the AR Suit’s heat level. In effect, every time you use a power in the game you are also damaging yourself. So long as you do not fully drain the meter it will replenish quite rapidly. Drain the meter completely though and your suit will overheat, which takes much longer to replenish and both primary abilities are disabled until the meter is fully charged again. This creates a wonderful dynamic where players try to use their powers as much as possible without overheating. A skilled player is constantly walking on a razor’s edge. 
+
+Make sure the player is not always constantly pinned down by overwhelming force. When the player is the only target for every enemy, they end up spending far too much time behind cover recharging their health instead of out in the field achieving great feats.

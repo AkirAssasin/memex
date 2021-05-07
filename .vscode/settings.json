@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.h": "cpp",
+        "*.tpp": "cpp",
+        "makefile.*": "makefile"
+    },
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.renderWhitespace": "all"
+    }
+}

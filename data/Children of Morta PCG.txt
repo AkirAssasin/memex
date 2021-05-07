@@ -1,0 +1,9 @@
+How are the levels in Children of Morta generated?
+
+Parameters define the rooms and constraints on how different types of rooms can be connected together. A graph is then generated. Additional, narrative or quest related rooms are then added onto the graph. Quests or narrative developments could resolve in a single level, or unfold across levels.
+
+Each room has a number of possible shapes and forms, so there’s a lot of different possibilities for connecting them according to the graph.
+
+Once the rooms are placed, it’s time to fill them up. Doors and connections between rooms. Narrative assets and cutscenes. Pathfinding. Enemies. Loot.
+
+By keeping track of the player’s progress, they can apply dynamic difficulty, unlocking new content at the right time, and analyse player behaviour.

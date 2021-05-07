@@ -1,0 +1,3 @@
+Contour bombing cave generation algorithm 
+
+The basic idea is to generate the path or the basic shape of the cave with several lines, fill path with cells, and then bombard the cells with the filled circles of a certain size. The newly born cells are pushed to the list of cells that can be bombed again.

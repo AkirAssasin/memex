@@ -1,0 +1,22 @@
+Every decision contributes to the success of the product.
+If you make no decisions at all, or if you make them very slowly, your project goes nowhere and that is a fast track to disaster.
+
+People are emotional and irrational and that affects our decision-making. This can be avoided by systemizing, data-driving and automating your processes as much as possible. 
+
+Actions that are applied automatically when a measured value goes beyond a threshold are common examples of this. Always set the threshold before you know the score.
+
+However, if your automated system has an error this error will be replicated over and over. It also does not make decisions based on unknown factors. 
+
+Frequently ask “what information is missing?” whenever you make important decisions. Define in advance what you will use the data for, or you might use it even if it is not useful or relevant.
+
+Boiling decisions down into a finite number of choices is a good first step. There are two approaches to making a choice:
+
+Optimizing - evaluating all your options and choosing the best. This approach is prone to being affected by the irrational emotional state of the person making them. Most commonly people over-value the costs due to the human bias of loss-aversion.
+
+Satisficing – choosing the first option that meets your criteria. Heuristics are rules of thumb that can short-cut you to a good decision and leave less opportunity for irrational emotions to get in the way. 
+
+If a large change has been made to a game, then all decisions that relied on it should be re-evaluated.
+
+Well-managed group decision-making is almost always superior to doing things on your own. Consider alternative ways of managing group decisions when figuring out what works for you.
+
+The 90% trick. Present a complex plan to the decision maker and tell them that there is a small part of the plan (10% of it) that you are not sure about and ask for help. Allow the decision maker to make whatever changes they want to this part so that they approve the rest of the plan unchanged. It helps if the 10% you choose appears to be a crucial part of the plan but is actually entirely cosmetic or superfluous, so the important parts get through unscathed. There is a dark side to decision-making, and I strongly advise you to avoid it.

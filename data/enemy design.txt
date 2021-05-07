@@ -1,0 +1,3 @@
+Telegraphing enemy attacks make it easier for players to strategize, and puts failure more on the fault of the player. It also makes the cause of failure clearer so the player can improve.
+
+Don't let the player find a single tactic and never have any incentive to try something else.

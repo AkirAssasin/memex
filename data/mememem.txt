@@ -1,0 +1,16 @@
+Unless the player is actively trying to test the systemic bounds of the game, almost all gameplay happens within the player's mental simulation of the game. Thus, we should focus more on the sorts of mental simulations our games give rise to. It isn't about the objective facts of what you see, but what processing it gives rise to that makes a game feel real.
+
+The mental model is closely linked to our ability to anticipate. Creating anticipation in games is extra tricky because of interaction. In order for us to work with this we need to learn how these mental models are formed. 
+
+Built-in Knowledge
+This is what our brains come equipped to deal with when we are born. Built-in knowledge is extremely hard to break. Tying things directly to built-in knowledge makes it more intuitive, and opposing it requires more effort. Remember that conforming to built-in knowledge is what makes a world seem believable.
+
+Past Experiences
+Players come in with different expectations and preconceptions on how things ought to behave. They will directly affect how the player think the game actually is like. If it does not align, the gameplay will not work for them. Things learned from past events are quite malleable.
+
+Experimentation
+First impressions are crucial to how the rest of our experience is shaped. Once the player interacts with something it will tell them about some aspect of the object. They will then try to generalize this knowledge. They form actual reality for the player.
+
+To allow for a rich mental model, the player must be able to explore the elements of the world and be met by a consistent set of rules. When there's no consistency of any sort, the player's brain will just skip trying to do any modeling and rely on direct trial and error.
+
+On the other hand, an overly detailed model could mean the player makes more assumptions, leading to the structure being more fragile.

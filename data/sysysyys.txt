@@ -1,0 +1,5 @@
+To develop emergent and systemic gameplay, think in systems and generic solutions, rather than in situations and scenarios.
+
+Testing and iterating becomes much more doable through systemic approaches.
+
+Make the rules rather than individual scenes and inhabitants.

@@ -1,0 +1,14 @@
+
+The Psychology of Difficult Mazes
+
+A maze with equal dimension size ratios tends to be harder.
+
+Less and longer solutions tend to make a maze harder.
+
+An irregular Maze is harder to solve than one on a standard grid.
+
+Mazes with loops instead of dead-ends, or very very long dead-ends make it harder to realize you're not on the right path.
+
+Psychologically, people tend to make choices at junctions that lead toward the exit. People tend to be reluctant to take sharp hairpin turns and "undo" what they just did. Counter these to make a maze harder.
+
+Recognizable unique landmarks can make a Maze easier to solve. However, similar features repeated at different areas can help confuse the player. Players tend to also be attracted to landmarks. Having the solution path go within sight of but not past a landmark is a good way to make many people take the wrong path. 

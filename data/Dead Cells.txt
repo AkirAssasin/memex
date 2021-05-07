@@ -1,0 +1,9 @@
+How Dead Cells Secretly Stops You From Dying
+
+The game should assist the player in aspects of the game that are not meant to be a challenge. If you understand the player's intention, you can assist them in achieving those where relevant.
+
+Dead Cells is an exploration and combat oriented game, and there were many subtle assistance for platforming. 
+
+There's a small window in which players can still jump even after falling. The player can land onto platforms even if they missed it slightly. The player can also climb onto ledges and automatically walk up certain heights of steps.
+
+Even in combat, there are many ways the player is assisted. When diving and landing on the ground, the player will automatically turn to an enemy in range if the player inputs attack before turning. The player can cancel their attacks with a dodge.

@@ -1,0 +1,13 @@
+Hyper-casual games gain most of their returns through in-app advertisements and high volumes of downloads. They must be highly addictive, easy to play and fun. Finding ways to increase traffic by any means possible is essential.
+
+Since hyper-casual games doesn’t encourage gamers to loyally prioritise certain titles over others, cross-promotion is a good option. The trick is to find communities that share similar audience segments to yours and start a relationship. Be creative on how you entice players to cross over!
+
+When monetizing hyper-casual games, focus on getting a large, sustained playerbase. Usually, publishers aim for > 40% day 1 retention rate. Any lower, and you may have to kill your darlings and move on to the next project.
+
+Having a tangible cost per install (CPI) for new users will help you to more accurately measure the performance of your marketing efforts. Evaluate the CPI for all the different formats and ad platforms. Use A/B testing!
+
+Find ways to enhance the user journey with ads rather than distract gamers away from the wonders of your title. Ultimately, you need to put yourself in the gamer’s shoes.
+
+Consider enticing users with rewarded daily sessions to keep them engaged. Stay engaged with your audience, be it with challenges, leaderboards or new content.
+
+Monitor the user cycle of your gamers to understand how they behave at different stages of their playing experience. From daily active users (DAU) and engagement scores, to drop off rates and CPIs, find a way to organize your metrics so that you have a clear insight into the progress of your game and its ability to acquire new players and generate revenue.

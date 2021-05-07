@@ -1,0 +1,5 @@
+Text-heavy games should usually provide an immersive, atmospheric and intuitive reading experience.
+
+A common, comfortable and predictable layout for heavy text is for them to be in the center.
+
+You may need to sacrifice unnecessary customisations for a more functional and consistent UI.

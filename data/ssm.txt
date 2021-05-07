@@ -1,0 +1,9 @@
+All games work in three different spaces: System, Story and Mental Model.
+
+The System is where things get done, and is purely functional. This space can be further split into Mechanics and Dynamics.
+
+The Story gives context to the things that happen in the System. We can divide this to two layers - sensory information, and drama.
+
+The Mental Model is the experience formed by the Story and System. It can be things that the player makes up from their own imagination. At the basic level, it's the functionality that the player attributes to a perceived object. At a layer above is how the player thinks they should behave in various situations and how these situations ought to play out. 
+
+If your mental model is more influenced by the System, it can come off as 'gamey' and lose narrative impact. Thus, you need to make sure that the System doesn't directly contradict what is in the Story.

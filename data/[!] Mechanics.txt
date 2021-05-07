@@ -1,0 +1,40 @@
+## Mechanics
+One simple concept, polished to perfection, can provide a fun and addictive experience. Keeping the development of a game tight and not going beyond initial principles is a key ingredient to complete a polished game. 
+
+However, you don't want players to get activity fatigue, geting bored doing the same thing all the time. 
+
+Give your players a chance to master something and feel clever and empower them to explore other uses. 
+
+Synergy of enemy types with the environment, with each element enhancing and changing how the other elements behave, can add depth and strategy to gameplay.
+ 
+Force players to strategize by choosing the right weapon for the right scenario.
+
+If an idea isn’t working, don’t be afraid to throw it out and try something utterly crazy.
+
+## Self-guide
+
+The more the player can learn just by poking around, the better they can self-guide.
+
+Start the game with some basic problems that need to be solved, allowing players the time to examine these problems and take a look at the tools they have to solve them.
+
+Find a way to offer hints on what players should be focusing on if they do not pick up on the problems they are facing.
+
+Limit the player’s options to keep them from being overwhelmed at the start.
+
+Find a way to keep the player's attention focused on what they need to learn from. 
+
+Use animations and graphics to show how everything moves and works, instead of hiding them behind numbers.
+
+## Controls
+Controls should enhance a player’s experience, not detract from it. 
+
+Making responsive controls means minimizing the time between the player’s physical action and the game’s virtual cues. And the more cues the better!
+
+Consolidate movements to as few buttons as possible. Use context-sensitivity to simplify controls. Think about what the action your portraying physically requires, and try your best to mimic that.
+
+A good test of your game’s controls is the player’s ability to plan and execute movements.
+
+Establish your target user population, and understand their needs based on their demographics, preferences, and past experience. Next, formulate design requirements based on lessons learned from existing titles, expected use context, and player behaviours. Iterate through user testing to validate and refine the controls.
+
+## Adjustment Tips
+A good trick is to think in halves and doubles. Character too slow? Double the speed. Too fast now? Go in-between the old speed and the new speed.

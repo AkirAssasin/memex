@@ -1,0 +1,11 @@
+Scripted objectives and triggers that are not consistent with game mechanics can spoil a strategy game.
+
+Strategy game designers should think of their interfaces and guides as having two levels: a teaching level and a reference level. 
+The teaching level focuses on players who need to know the basics, and should be integrated and easily accessible within the game.
+The reference level should answer any question the player can think of about how a game mechanic works, and can go into a separate in-game catalogue.
+
+Options in a game is there not just to fill space but to let players execute decisions. Players must be able to mentally track their in-game options. Blizzard's magic number for their RTS games is 12 (units, buildings, etc).
+
+Allowing players to customize their own scenario or map can prevent a game from getting stale after awhile. These sort of options should add variety without adding complexity.
+
+The most important question to ask when countering piracy is "will this actually increase our sales?" StarCraft lets you "spawn" extra copies of the game that could only join local multiplayer games, which will introduce new players to the game! They can then buy an official copy if they wish to host their own game or play the singleplayer mode.

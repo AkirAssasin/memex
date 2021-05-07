@@ -1,0 +1,9 @@
+Ambience is an important aspect in a game that allows players to be fully immersed into the experience. 
+
+There are various ways you can craft your atmosphere - color, nostalgia / familiarity and audio.
+
+Skeuomorphism is a design of a virtual object that inherits the physical appearance of their real-world counterparts. A minimalistic, practical, efficient interface can sometimes break the immersion of the game experience.
+
+Contrast, brightness and hover effects matter when players are trying to determine the interactivity of an object.
+
+You can create a diverse character cast based on established personality indicators or alignment charts like The Myers Briggs Type Indicator Scale.

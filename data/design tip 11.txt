@@ -1,0 +1,7 @@
+"Hoarder syndrome" in RPG-based design is where players refuse to use life saving items and instead hoard them for some time in the future. At its worst, hoarder syndrome can make a game worse to play due to the player not using every option open to them. 
+
+This is not an issue in rogue-likes as they are meant to be replayed, while a lengthy singleplayer RPG is not.
+
+If the player can lose resources by failing, then it should be very easy to reacquire them through play. The player is more willing to experiment with different tactics when there is little long-term harm if they mess up. 
+
+Another solution is to focus on the short-term use of an item or tactic while leaving the long-term application alone, for example replenishing health for every fight. The player is still forced to manage their health during the fight, but it's not a case of "winning the battle, losing the war."

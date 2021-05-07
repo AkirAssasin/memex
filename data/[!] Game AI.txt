@@ -1,0 +1,33 @@
+
+## AI
+Game AI must have a purpose. Not robots, but actors that can understand the situation and create the illusion of a real experience. It’s here to entertain and interact with the player. Neat tech and AI tricks aren't worth implementing unless they actually reinforce your game's core design goals.
+
+AI should always provide convincing, fair and interesting situations for the player. 
+
+The "race script" is a "script" for how a race develops in a racing game populated with AIs. 
+
+You can decide to have every AI character aiming for a point a number of meters ahead or behind the human player. Then, each AI character's skills change dynamically depending on the AI character's distance to their assigned point. You can also dynamically modify this point during the race.
+
+You can have different groups:
+ - aiming to be with the human player
+ - aiming to be with the human player then behind them at the end
+ - aiming to be slightly ahead of the player then slightly behind at the end
+ - aiming to be ahead of the player then be with them at the end
+
+It should be rewarding and exciting, keeping the thrill of the race right until the end.
+
+At the very start of the race the AI must overtake the player as then they become an obstacle the player has to avoid to progress.
+
+The AI will have the maximum in every abilities for the first seconds of the race, then interpolate to their initial skills for another few seconds. This usually helps forming the groups.
+
+You can stop the AI characters from improving their initial skill in the last meters of the race, but allow them to decrease skill if the human player is behind. That makes it harder for the AI to recover from their mistakes, giving the human player some room to maneuver.
+
+The Nemesis system in Shadow of Mordor is actually a super-simple system with no additional AI work at all -- but it makes the game's antagonists seem more alive, more real, just like good AI should.
+
+It is not enough for the enemy AI to simply encounter the player and try to kill them. Firefights would get repetitive too quickly. Create a bunch of unique behaviors for each different weapon or enemy types. You can also add behavioral variances so that even a group of similar enemies will display dynamism. 
+
+A good (and dynamic) AI can produce more diversity in player experience compared to procedural world generation.
+
+Embrace the comedy - your AI were never human anyway.
+
+When it comes to action games, don't be subtle on AI. It's hard for players to notice on the details. If you want to portray something in the midst of a battle, you really have to crank it to 11.

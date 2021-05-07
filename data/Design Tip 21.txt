@@ -1,0 +1,3 @@
+When adding new things into your game (like randomness), make sure your game isn't enjoyable despite of it, but more fun because of it.
+
+Without a coherent theme, some rules may be exactly what the system needs mechanically, but just for some reason feels totally weird and wrong.

@@ -1,0 +1,12 @@
+Dieter Rams: Ten Principles of Good Design
+
+01. Good design is innovative.
+02. Good design makes a product useful.
+03. Good design is aesthetic.
+04. Good design makes a product understandable.
+05. Good design is unobtrusive.
+06. Good design is honest.
+07. Good design is long-lasting.
+08. Good design is thorough down to the last detail.
+09. Good design is environmentally friendly.
+10. Good design is as little design as possible.

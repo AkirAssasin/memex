@@ -1,0 +1,5 @@
+A game's theme does not determine its meaning - meaning emerges from the decisions and consequences unique to the game mechanics. Galaga is about pattern matching. X-COM is about decision-making with limited information. Gears of War is about using cover as a defensive weapon. Starcraft is about the challenges of asymmetrical combat.
+
+When designing a game, avoid dissonance between the theme and meaning.
+
+Games can stand on their own without specific themes.

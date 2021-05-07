@@ -1,0 +1,4 @@
+Planning AI around the environment. 
+Make distict enemies so different strategies are needed for every situation and every combination of foes. 
+Random AI behaviour should be toned down so that players could formulate strategies. 
+Add wind-ups to AI actions to make them more detectable.

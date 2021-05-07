@@ -1,0 +1,9 @@
+Always remember that you are designing a game for an audience, not for yourself.
+
+Growth takes more than just a good product and advertising – it requires a welcoming, newbie-friendly environment. New players that are scared off initially due to high complexity may never come back.
+
+The more time a player spends struggling to remember a complex rule, the less time they spend playing the game.
+
+Most effective designs are usually ones that do one thing or focus on one mechanic. You might make a game less interesting by making something complex that players avoid.
+
+When designing rules, don’t force a very specific set of interactions, and focus on open-ended strategies instead.

@@ -1,0 +1,5 @@
+Learning Patterns
+
+To make players pick up new behaviours and habits, provide feedback/rewards every time they do it correctly.
+
+To make players continue doing trained behaviours or habits, provide feedback/rewards unpredictably when they do it.

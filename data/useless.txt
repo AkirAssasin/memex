@@ -1,0 +1,7 @@
+Score systems have been relied on by all kinds of interactive systems designers to make a game a little bit more replayable, challenging and competitive.
+
+Completion systems have just two states: completed, or not completed. Winning is just a tiny notch in the long life of a usually highly replayable system.
+
+High score systems output a number at the end of play that reflects the player's ability.
+
+Score test systems determine outcome based on whether the player reaches a score threshold.

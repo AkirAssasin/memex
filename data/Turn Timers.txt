@@ -1,0 +1,9 @@
+A game about intuitive decision-making (rather than calculation) provides the player with limited information and time. This sometimes make turn timers necessary.
+
+In real-time games, the ever-changing scenario is an implicit, dynamic timer. Timers are generally accepted in multiplayer games. It is harder to justify timers to players in singleplayer, turn-based games.
+
+When designing timers, make sure not to make it extrinsic (from the real world, as opposed to from the virtual game world). This can feel invasive.
+
+Diegetic timers feel much more natural. Rhythm-themed games have their turn timers in the form of the beat and duration of the song. Side-scrolling games have their turn timers in the form of an advancing wall of death.
+
+The game's design has to take turn timers into account from the beginning.

@@ -1,0 +1,33 @@
+## Subtraction
+As you simplify and add space to your design you emphasize what remains. 
+Space surrounding graphics, margins and paddings, columns...
+
+## Similarity
+Similarity in design creates structure.
+Objects that look similar, enclosed together, near to each other, or arranged in a line are percieved as similar. You can explain each element's purpose in a way that feels intuitive.
+Place labels closest to the relevant fields.
+
+## Focus
+Bring the information into a space a user focuses most on, and reduce eye travel to fetch information while retaining legibility.
+
+Elements are percieved as either figures (objects of focus) or grounds (background). Add a 5-10px Gaussian blur on a screenshot and see which elements stand out. 
+ 
+Use color and weight to create hierarchy instead of size. Light/dark contrast creates an impression of depth, and attract users to light objects. Warm colors tend to dominate cool colors.
+
+Every action on a page sits somewhere in a pyramid of importance. Most pages only have one true primary action. It’s important to communicate their place in the hierarchy through design.
+
+## Color Theory
+Contrast: the color on the opposite end of the wheel
+Complement: colors immediately next to it on the wheel
+Triadic: any 3 colors located 120 degrees from each other
+Split complementary: 2 contrasting and complementing pairs
+Analogous: 3 complementing colors
+
+## Audio Cues
+Audio cues must be distinct and clear enough to convey information, and sometimes can be used to replace visual elements.
+
+## Game Misc.
+Hide elements that are not necessary, revealing them when needed with snappy and responsive animations.
+Integrate the HUD in a way that feels like part of the game instead of an additional layer cluttering the screen. This maintains player immersion without sacrificing functionality of HUDs.
+
+@@ Under Construction

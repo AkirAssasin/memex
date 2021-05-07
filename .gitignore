@@ -1,0 +1,7 @@
+# ignore all files in data first
+data/*
+
+# then un-ignore text, cpp and mmx files in data
+!data/*.txt
+!data/*.cpp
+!data/*.mmx

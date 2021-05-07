@@ -1,0 +1,7 @@
+Roguelikes tend to have mechanics that lead to very interesting decisions where in addition to thinking about your current turn, you also have to always think about your next turn, because where you end this turn will influence the next one as well. This increases the tension of each turn quite a bit.
+
+Use transparent systems where the player has total control over each move, and are able to anticipate any upcoming threats.
+
+Tension arises from clear knowledge of risk and reward.
+
+Having a strong core mechanic and building the game’s additional parts on top and around this mechanic makes the design process easier.

@@ -1,0 +1,13 @@
+Make games that can be understood at a glance. A picture is worth a thousand words, but only if the picture makes sense.
+
+It makes implementing your tutorials less work. When your game is good at teaching onlookers to play, it'll draw in more viewers. 
+
+This may be the result of good information organization and UI design.
+
+Design your interface based on The Three Reads.
+The first read pulls you in, and that's the core of your game.
+The second read fills in key details, or big unintuitive rules.
+The third read gives you contextually important information.
+
+Good design shows you things in the right order. 
+You can use movement and animation to temporarily raise or lower the read of a game component. Animating something instead of having it pop in can reinforce its importance. Hide information that are not important at the moment.

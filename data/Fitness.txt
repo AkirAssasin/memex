@@ -1,0 +1,11 @@
+Decisions about how a procedural generator should work often end up involving a difficult balancing-act between two important needs: variety and quality.
+
+A Fitness Function allows you to achieve both, and it lets you focus on the two problems independently.
+
+1. Make some examples of your content by hand
+2. Try to capture the most important steps in your process
+3. Convert your approximated-process into code
+
+4. Explore lots of examples made by your new generator
+5. Write a function that measures the quality of a generated asset
+6. When you generate content for a player, generate a bunch of examples, measure their fitness values, and pick one of the highest-scoring results

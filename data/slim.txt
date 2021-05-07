@@ -1,0 +1,5 @@
+Emergent behaviour leads to emergent mechanics, which form chain reactions that lead to emergent stories. 
+
+A story does not have to be very long, but it needs a beginning, a middle, and an end. It is a collision of wants and needs of the actors in a game. These wants and needs should be able to learned by the player. Needs are behaviours crucial to survival, while needs are behaviours that add flavour and complicate things. Wants are less reliable and constant than needs.
+
+Sandboxes and multiplayer games tend to lead to emergent behaviour.

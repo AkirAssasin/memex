@@ -1,0 +1,9 @@
+The illusion of transparency is a tendency for people to overestimate the degree to which their personal mental state is known by others. It also makes designing puzzles difficult.
+
+The developer is hobbled by having all of the information about their puzzle. What they think is obvious is only obvious because they already have the answer. They cannot comprehend the player's perspective.
+
+Just being aware of the fallacy is a powerful thing. 
+The best way to get player perspective is to ask players for it.
+Incorporating multiple kinds of clues to guide different players.
+
+Having earlier puzzles act as cues for later puzzles creates an organic feel of growth, ties your game together, and makes things more obvious without feeling forced.

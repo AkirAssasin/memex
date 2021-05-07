@@ -1,0 +1,12 @@
+touch controls for tactility
+- have to be comfortable to use
+- inspires confidence in the player
+- game state is conveyed to the player as fast as possible
+- controls intuitively convey their effect (like joystick)
+- apple recommends 44x44 pts buttons, but you can make the hitbox larger for buttons that player can't see
+- swipe down < swipe up because of ease of gesture
+- controls should require fingers to move more than few centimetres or it will be harder to feel the gesture
+- controls should not make players move very far because it will be hard to remember where the position of the finger is on
+- audio should emulate physical effects
+- controls should influence game design
+- don't let players concentrate on controls, concentrate on the game

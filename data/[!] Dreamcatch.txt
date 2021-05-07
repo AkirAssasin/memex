@@ -1,0 +1,316 @@
+DREAMCATCHER
+
+# 001 - HerbRL
+Traverse between biomes to collect procedurally generated herbs. Use them to make potions based on procedurally generated recipes, heal allies or just sell them.
+
+# 002 - Minimal RPG
+Each area is represented with a 3 x 3 grid, with the center being the player. Can be clicked to access inventory etc. Other boxes could be collectibles, enemies, taverns etc.
+
+# 003 - 1DRL
+Each dungeon is a straight corridor. You can "bust" through the floor to reach the next dungeon below, but you can always climb back up. Deterministic combat?
+
+# 004 - Rewiring
+A resource management game where you control a ship/machine. Connect elements together to power them, transfer information and ration energy. 
+
+# 005 - Fish School
+Click to repel fish. Avoid and dodge large prey, minimising casualties. However, each individual fish has their own hunger meter?
+
+# 006 - Override
+What looks like a standard card game, but certain cards trigger a change in the rules of the game.
+
+# 007 - Crawler
+FPS game where you can climb on any surface, including enemies. This is done by adding all collision points together, normalize them, then apply gravity in that direction.
+
+# 008 - Tower Offense
+Play as a defense tower in the center of your base. Build towers that upgrade and deflect your projectiles. Shoot enemies using tower combos and clever placement, bouncing projectiles accurately off the auxillary towers.
+
+# 009 - Wide Web
+Nodes scattered around 3D coordinates. Use these connected nodes as a grid to play grid-based games. Players can modify or merge nodes together, to form new escape routes. Weapons like explosives can destroy nodes, cutting off exits.
+AStar algorithms should be pretty easy to implement here.
+
+# 010 - Tactile Sense
+In a dark enviroment, you can only see your character's point of contacts with other colliders.
+
+# 011 - WarpRL
+A 2D roguelike with a 3D map, made out of layered 2D worlds. You can distort layers and mix up worlds.
+
+012 - Ghost Story
+Interactive fiction, but elements that are not visible can change by themselves.
+
+# 013 - Determinism
+"Sieze your chance…"
+A roguelike where all character are dice. When you perform an action, chances are calculated based on relative luck difference between actors. Performing actions cause dice to reroll. Weapons are also dice, which determine hit "chance". Abilities are special dice that can modify the dice values or temporarily alter luck. Different "materials" of the dice determines turn speed, attack, health etc. Bosses can be dice made out of weird materials such as cement or blood.
+
+# 014 - Joydance
+Musical rhythm game where notes fall from the side to the center of the screen. The two joysticks, when moved, will produce a barrier that destroys notes. If the joysticks are held down, the barriers shrink very quickly. Maybe each stick can only destroy a certain type of note.
+
+# 015 - Karma Value
+Any time something with definite good/bad endings is determined using RNG, divide the random value with the player's karma value to determine the outcome.
+
+# 016 - SwordRL
+A chinese wuxia themed roguelike. 
+Actions have action values that determine speed. 
+Enemies can return in later parts of the story (but not the same dungeon), and have generated names and personality. You can also form allies, and shop NPCs can die.
+Dashing is an important skill to use to manoeuvre in combat. 
+All entities have a direction value. Hits are determined by both side's direction (etc. sideway block, counterattack, backstabs…).  Hitting and blocking using a direction may cause the direction to auto-switch. All these are determined through "martial arts factions". You can learn other faction's art and combine to form your own.
+If the player dies, there is a 90% chance to be revived by allies in their base. This is removed in speedrun mode. For interaction fients, allies could be attacked when you wake up.
+Goal is to get revenge on the ultimate big bad, etc.
+
+# 017 - Chem Connect
+Chemistry educational game!
+Main mechanic of the game consists of connecting nodes with pipes. Pipes transfer objects based on height (from high to low) and weight of substance (objects lighter than air goes from low to high). Nodes can be embedded in "apparatus" like distillators, mixers, centrifuges, bunsen burners… each level consists of the player trying to obtain a particular pure substance.
+
+# 018 - FPS Boss Fight
+Like Thumper, but first person with large guns.
+
+# 019 - Ion Neutralizer
+Enemies fall from the sky, use positive ions to neutralize them!
+
+# 020 - Pillar to Heaven
+An infinite runner on a procedurally generated pillar. The pillar will exhibit tree-like features (with stumped branches) and rough asymetrical surfaces. Movements are similar to [ 007 - Crawler ]. Maybe add some rail-shooter elements in the mix?
+
+# 021 - Arc Defense
+A game like  ⃟, but versus AI. Walls only work when facing the enemy; a new component can fire attacks at the enemy at the cost of high energy. Much more strategic depth than before indeed. Space opera theme?
+
+# 022 - RGB Warper
+[ 011 - WarpRL ], but you start in pitch black and can explore anywhere. Colored prisms will "glitch" that color's world into the map. When the range of two prisms intersect their colors merge (addition) and reveal that map instead. Example: when the player pushes a red prism into the range of a green prism, the area where their ranges intersect will show the yellow world. Destroying a prism while within their range will close the "portal" and trap everything within in that world. Black prisms display the initial world.
+
+# 023 - REFLEXION
+A twitch parkour game. The joypad controls a sword that the character is holding. The player can use the sword to hit enemies. The main traversal method is using the sword to hit walls and hazards, deflecting the player to safety. Tight corridors require quick repetition of movement to dazzle through.
+
+# 024 - Ministers
+A standard resource management government game… but ministers do the work for you. Ministers are AIs with personalities and goals. You can order them to carry out things, but they may not do so if it conflicts with their internal beliefs. Some ministers are more corrupt, or efficient than others. Ministers can leave jobs, get killed, be fired. They also manage their own department if you do not give them things to carry out. Ministers may not trust each other (or even you), may be unpopular with the general populace, etc.
+
+# 025 - Eyes
+Play a simple deckbuilding card game with an AI. Mechanics should involve some kind of taking, e.g. taking a random card from the competitor's hand. However, the AI's character has eyes, and these eyes will either misdirect or direct the player to something valuable. This is also same for the player - their "focus" is what their cursor is currently on, and the AI will use this to guess.
+
+# 026 - Click
+Like a sonar version of [ 010 - Tactile Sense ] in clicker form. Clicking reveals part of an environment, and might attract blind monsters that react to sound. Clicking on boxes reveal loot, while clicking on generators create electricity. Computer terminals can be used to advance the game and story.
+
+# 027 - Screamer
+An ultra-high speed 360 degrees runner.
+
+# 028 - Shallow
+Line-art style top-down game (3D FPS will be interesting). Walking/running produces puddle wave that stretches infinitely. Arrow keys to move, move with velocity, pressing shift dashes towards current velocity. Hold mouse to thrust sword forward - stamina only regens if sword is not held. Blocking and hitting with sword produces epic effects and reduces stamina. Enemies operate similarly.
+
+# 029 - The Arbiter
+A simple card game will be played after death, where the Arbiter determines your path downwards. You are the Angel, assisting people in the afterlife. You cannot play the game on their behalf, or tell them the true purpose of the game - but you can advise and communicate with the player, help them make the right decisions, and send them off.
+
+# 030 - The Diplomat
+A simple card game. Manage the Country of Hearts' relations with Spades, Clubs and Diamonds. The player has 4 cards in his hand. The player can discard one card in his hand, and draw a new one. Cards have "lives" - every discard decrease all current cards' lives by one. When it drops to 0, the event in the card will activate. Some cards add themed and dangerous cards into the deck, while others remove those cards. The player must survive playing all the cards before diplomacy drops to zero, and the world falls into war.
+
+# 031 - Antimatch
+A match-3 game, where you clear things by making sure all it's neighbours are different (e.g. one of each kind).
+
+# 032 - Emperor Time
+A roguelike where movement consists of Tower-of-Saviours-like manipulation of objects on the board, except that the player must always use his avatar as the starting point. Switching through enemies will deal damage to them, but only once per turn. The player must end his turn before the timer stops, or he will take damage. 
+When the player's turn has ended, enemies will attack based on a list of positions of their attack range, like a standard roguelike.
+
+# 033 - Unknown
+An FPS set in an abandoned brutalist landscape. Unknown and unpredictable creatures roam about and seem to chase the player. The player has a gun that can dispel the creatures, but they reform. If, however, the player decides to not attack the creature, and the creature completes it's "attack" animation, the creature will bring the player to a new dimension (the true Pacifist Ending).
+
+# 034 - Take Heart
+A dungeon RPG where you do not take control of an entire party - instead, you are just a single member in a 4-adventurer team. Everyone has unique abilities, emotional needs and desires. Emotions are three hidden stats - resonance (with the party - enhances team buffs and absorb single-target debuffs), optimism (affects happiness and resonance), and happiness (affects resonance and optimism - the hell am I saying?). I'll get back to this next time.
+
+# 035 - Till Death
+Like [ 003 - 1DRL ] , but you go one floor down when you die (one hit kill), with everything copied from the previous turn before death. Lose when you suicide.
+
+# 036 - Hanged Man
+Hangman, RPG style. Get data from dictionaries, fight bosses. Enemies inflict effects like anagrams, lipograms, whatever-grams.
+
+# 037 - C█NS█R
+An int█ractiv█ ficti█n wh█r█ y█u █xpl█r█ s█m█wh█r█. But l█tt█rs disapp█ar. P█rmad█ath?
+
+# 038 - Alchem
+An expansion of [ 001 - HerbRL ] + [ 002 - Minimal RPG ] . You have one last year to live, thanks to a supposedly incurable disease. However, through rumors and ancient text, you found out that a mythical potion exists out there that can cure anything.
+
+You begin from Spring, and each day you have limited energy to perform actions. You can: collect herbs, travel to a different zone, trade, or craft medicine. Crafting medicine involve separating and distilling herbs into their true essence. When you collect herbs, you may run into bandits, wild beasts, or get poisoned. Trade potions for equipment, other medicine, herbs, money and new recipes. 
+
+As the year goes on, the seasons affect herb harvest. Spring is full of herbs, exotic types can be found in Summer, Autumn bustles with life good and evil, while Winter is harsh and lifeless. However, it is during Winter only that the mythical ingredients bloom.
+
+Herbs can be procedurally generated, and contain more than one type of essence. Different types of essence have different densities, viscosities, boiling and freezing points. Some essence are encapsuled within small cells that have to be sifted through. Essences have their own generated effect, which can be combined into potions.
+
+The game focuses on separation techniques. Using separation techniques on objects/items result in new objects/items. Objects/items are a versatile class, where it records down every possible results from separation, all the way to the essence (or failure). These processes take the form of minigames.
+
+Fainting from battles result in being revived two days after. However, if the year ends before you can obtain the mythical cure, you die permanently. Hardcore mode makes you die permanently from battles.
+
+# 039 - Radon
+A roguelike with gravity. Bullets travel instantly, but firing takes two turns (one to aim, the other to shoot - if you are already aiming you can shoot in one turn). You can melee or use your pistol. Meleeing furniture causes them to fly up. You can jump and crouch. Your hitbox is 2 boxes high, but crouching reduces it to 1 box. Meleeing a melee results in a parry. Meleeing someone that shoots causes the bullet to miss, but deals no damage to the shooter.
+
+# 040 - Markov
+A 2-player shooter game, best of 15 rounds. Player movement forms a markov chain. Each consecutive round spawns bots on that player's side that follows their team's markov chains. Markov chains record shooting, moving, and dashing. If the bot reaches the end of the markov chain, it vanishes.
+
+# 041 - Verreciel II
+[ 004 - Rewiring ] + [ 009 - Wide Web ] , in a way [ 017 - Chem Connect ] . You are the sole pilot of ??? , a starship with shapeshifting capabilities. After a catastrophe during prototype testing, you lose connection to Earth and drift in space. Figure out how to connect various components of the ship using the blind interface, and return home…
+
+Components have different ports with different purposes (e.g. engine has Strength and Angle). The main Reactor provides energy. (Just go take a look at the original Rewiring prototype for more inspiration.) Some components serve as input (choosing direction, on/off toggle).
+
+Additional - each component has special tone that plays sound when energized.
+
+# 042 - Smash Pong
+Pong, but you can press space to 'smash' your paddle forward until it hits something, then return. If the ball does not collide with anything, it will explode - whoever's half of the board it exploded in will be counted as losing.
+
+# 043 - Slime Mold
+It behaves like a colony. Every part rhythmically expands and contracts, pushing around the fluid inside. If one part of the plasmodium touches something attractive, like food, it pulses more quickly and widens. If another part meets something repulsive, like light, it pulses more slowly and shrinks. By adding up all of these effects, the plasmodium flows in the best possible direction without a single conscious thought. It is the ultimate in crowdsourcing.
+
+# 044 - Rebellion
+You and your band of adventurers aspire to overthrow the tyranny of the Empire - but there are Empire spies among your team. Send heroes on missions. To complete the mission, everyone's total number roll must be more than a certain number. Certain missions may even kill participants that rolled exceptionally low. 
+Every hero has traits - a special skill, paranoia, leadership and loyalty. In a mission, rolls are executed in order of descending leadership. Each hero gets to choose between two results of their rolls. The skill helps the hero gain an upper hand in rolls. Loyalty affects choice of rolls - with highest loyalty, the hero will choose a high number when there will be no deaths, and low number when someone will die. A hero with lowest loyalty will do the exact opposite.
+Paranoia affects all other traits either negatively or positively. The higher a hero's paranoia, the higher the loyalty, the lower the leadership, though only by a small amount. Paranoia increases when the hero performs subpar, and is not elected for missions.
+
+# 045 - Wuxia Brawler
+A brawler/fighting game where you can cancel your actions with another - e.g. rolling halfway to slash, or slashing fient to dive, or rollkick, or fake acting… Rudimentary graphics can be 3D positioned 2D weapons to minimize time needed to animate.
+
+# 046 - Lithocide
+A third person shooter where you control a plane. You use plane controls. You have to attack floating monoliths by destroying the crystal shards growing on it with your gun. These crystal shards will retaliate using missiles, bullets and lasers. If you hit anything - including the monolith itself - you lose health. Graphics would be minimalistic and cel-shaded. You can press a button to auto-pivot at what you were aiming at when you pressed the button, then press it again to cancel.
+
+# 047 - Equillibrium
+Turn-based 2D grid combat, where magic is basically converting one type of energy to another. Spells can be customized by determining what you convert into what energy, and when, in a sequence or multiple sequences.
+
+Total energy in the battlefield stays constant. Chemical energy is your “health”, potential energy is your "mana", kinetic energy pushes objects and heat back, or deal physical damage, light energy stuns, heat energy counts as damage, and dissipates into the battlefield. Your loadout will consist of 4 active spells and 1 passive spell.
+
+Damage is dealt this way - a high level of heat will automatically convert chemical into light, which consumes your health.
+
+Everything eventually becomes heat energy. You can convert those surrounding heat into potential energy. Like the Avatar you unlock knowledge on how to Manipulate different styles as you follow the story.
+
+# 048 - Pond
+Like Rium, but 2D. Fishes play sounds when warping from one end of the pond to the other. Click to tap the water, and scare fishes away. Use behavioural lists to control fishes. Different species ignore each other.
+
+# 049 - Pod Racer
+A racing game, where you can steer left and right, dash towards the person in front, and do a small dodge/strafe/dash to the left or right. Getting hit when you are not dashing causes you to bounce back with less velocity. Dash can end when you hit an object.
+
+# 050 - Line of Sight
+Literally line of sight. Pilot a drone through darkness, but you have a laser pointer. So all you see is UI, and a single (or multiple) raycast line through the dungeon. Teleglitch style? With machine noises and all.
+
+# 051 - XAV
+Platformer. 3 kinds of building blocks - normal blocks that can be stood on, blocks that expand to a certain direction when in contact, and blocks that kill the player. Reach the goal to advance. Level editor should be pretty easy to build. Use kinematics to calculate vertical velocity.
+
+# 052 - Elite Hunter
+Go through small, procedurally generated levels and complete the objective. Can be killing all enemies, collecting an object, or killing a boss. Earn money and buy your way up the ranks of the game! Permadeath. Enemies have a field of view, bullets are raycast etc. 
+
+# 053 - Tunnel Vision
+Travel through an infinite pipe and shoot things up, FPS. You accelerate faster when near the sides. No gravity. Squad-based?
+
+# 054 - ALIGNMENT
+Short, fast-paced and simple, racing themed: the player speeds through squares. Align the steering wheel with the squares to accelerate, but the player rotates with the steering wheel. You can shoot projectiles, and dodge them by rotating away. Play with bots?
+
+# 055 - Minimalist RTS
+Expansion (or reduction?) on [ 009 - Wide Web ] . Procedurally generated planet with land and water. Poisson disk sampled points are bases. There are less points on water. All land starts neutral. Players take over bases by making sure that that base only has their troops. Bases have 3 modes - resource gathering, army building, or area defense. Area defense takes down incoming troops on connected routes. Resource gatherers give supplies to connected areas. Army builders spawn troops. Troops can be commanded to move to a route.
+
+# 056 - Spaceship Roguelike
+The active player chooses how to expend his energy points. 
+
+Weapons do damage if the roll is two or above. If the other player spent energy on boosting his engines, the roll must be above Engine Boost + 1. On the first turn the defending player gets an automatic +3 engine boost. 
+
+The game ends when a player’s reactor is destroyed.
+
+REACTOR
+Each reactor point gives the player an energy point to spend. Every system requires an energy point to activate once on a turn. 
+Each destroyed system allows up to 2 points of damage to the reactor per turn.
+
+WEAPONS
+The star cruisers are armed with 2 missile launchers and 3 masers. Missiles do 5 points of damage but are limited by available ammunition. Masers do 2 points of damage and have unlimited fire. 
+If the number rolled is higher than Engine Boost + 1 you score a hit on the targeted system. Destruction of a system overflows to the reactor.
+
+ENGINE
+Each engine activated on your turn requires the other player to roll one higher for weapons on their turn. 
+
+SHIELDS
+The ship can only take damage once the shields have been destroyed. Energy points can be expended to restore shields.
+
+REPAIR
+You can spend one energy per undamaged repair system to restore one point to any damaged system. The reactor cannot be repaired. 
+
+# 057 - Samurai
+
+Controls: left, right, attack, dash, (block?)
+
+three health for each player. 
+
+buttons can be held - the action will instantly start immediately after current animation ends
+
+i.e. if you hold dash you will keep dashing
+(dash moves in a ease-out way)
+
+if you hold attack while dashing, you will immediately attack after dashing
+
+action direction is determined by what direction is held at time of trigger
+
+instakill if opponent doesn’t dash or attack after you attack them, else opponent takes one damage, time freeze and zoom
+
+therefore, attacking rules in favor of whoever that attacked/dashed first
+
+limited dashing amount
+
+no height/jumping... except in multiple level floors (up down + dash makes you switch floors)
+
+# 058 - Cohabit
+
+A resource collection kind of game, but the game view is a food/relationship web. You only get to see animals you’ve seen on the map, and connections between them are discovered by “observing” a certain animal/plant to see what are their prey and predators. 
+
+alternatively - hex grid, moving in packs, animals can consume things in a certain radius, you control a human nomadic tribe (but resource concept is the same)
+
+death and birth rates, and consuming each other, food web kinda thing
+
+Limited space for trees and water sources. Water sources and groves are labelled separately? Connections are only shown when “on” a certain object (i.e. when you’re on the Α Grove you only see what eats from it)?
+
+# 059 - Squadron 666
+
+typical plane shoot-em-up but in fantasy beast world monster sorta thing
+
+hypercasual? casual?
+
+instead of lives, you use parts of fallen enemies in your inventory to build your plane, resulting in different builds every time if you run out of parts
+
+you get daily parcels with stronger parts than your current level progress + daily levels with random planes
+
+symmetrical areas like wings should have similar parts or the plane will be unstable and have negative side effects
+
+# 060 - DIALING
+
+Music game where you call people on a rotary dial telephone according to rhythm.
+
+# 061 - Cell Wars
+
+A minimalist strategy game on a grid. Units start out as a single cell on one point on the grid. Every x seconds, all cells multiply and stay on the same point i.e. the point now has 2 cells. Each point has a maximum of x cells. 
+
+Click a point with > 1 cells to split all cells evenly among neighbouring points, taking into account the maximum cells a point can have. Cells will automatically “attack” enemy cells at an adjacent point.
+
+# 062 - War Drums
+
+You are the leader of a soldier squadron, on various missions. 
+Your controls? Your drum launchpad. The drum tunes you make affect the way the soldiers move, which in turn affect their Focus, Flow and Stamina. It’s basically “give the appropriate BGM to the soldier AIs so they can do their job well”.
+
+Regular, constant da-da-da-da and/or subtle kinds of beats in your drumming will increase Focus. Fast, irregular and/or loud will increase Flow. The total number of beats used will affect Stamina. 
+
+# 063 - K-201
+
+A combat mechanic for VN-like games: there are two rings. The rings expand and contract based on enemy pattern (sin waves, cos, tan, pause etc.). Tap to shoot. Effectiveness of attack is determined by difference between two rings. Need to reload. Maybe to enhance gameplay... you need to communicate with your teammates about reloading (for suppressive fire).
+
+# 064 - Double King
+
+A platformer/combat mechanic. The player has two (or maybe more) knives, and a body. Limbs autoconnect to knives. Actions alternate between each knife. Attack consists of a windup, then surge forward to attack. Knives can get stuck onto surfaces, thus pulling the body up. If knives get too far from body, dislodge knife from surface. I don't know.
+
+# 065 - Introductory Antimemetics
+
+A roguelike where the mechanics centre around identification/learning. Enemies are like SCPs that cause memetic or antimemetic effects; learn how to brew lethe potions to counter them. Memory wipe or return potions affect several turns back or forward - so if an enemy attacks you with a meme you can wipe it off with a strong enough potion. Antimemetic enemies can consume your crafting knowledge, and the more mnestics you take, the weirder and more dangerous your surroundings become. The stronger potions also have side effects.
+
+# 066 - Ideology
+
+The whole board is consisted of neutral people. Every player/enemy is an Ideology Leader. Ideology Leaders are shown in inverted colours - e.g. black on red instead of red on black for the Red Team. 
+
+Ideology Leaders count as 4 people when capturing. A person on the grid will become the color of the majority of their neighbours.
+
+Ideology Leaders can be converted to your team, but their Party does not follow suit. If a Party stays alive for X turns without a Leader, a new Leader will emerge. Conversion takes place after all Leaders have moved.
+
+# 067 - One Last Look
+
+“It’s late into the night. You should leave soon... one last look, okay?”
+
+It's the end of the farewell dinner. Time is frozen, and only you can move. You can’t interact with anything, and you can’t walk through anything. Human models wearing suits and dresses are procedurally posed doing various stuff, alongside tables and food and cups and phones. In groups or alone. 
+
+To end the game, leave the hall. Or quit the game, works either way.
+
+# 068 - Cooking Pong
+
+Inspired by GAM100 Digi-wok. It's like Pong, but 1 player only; catch the right ingredients in your wok to make the next order, or click space to "swipe" your spatula above the wok to hit the ingredient back into the air. Another key will just discard everything. Maybe another key to start the fire? You need to at least half-cook everything, but you can't burn the food either. Then some food (like eggs) require you to crack/slice them with the spatula (don't ask me how) before they can enter your wok. Is this kung-fu fried rice?

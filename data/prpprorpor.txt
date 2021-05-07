@@ -1,0 +1,5 @@
+Don't be afraid of chaos and random nonsense in procedural generation - instead, worry about it being same and bland. Eliminate things like repeated, identical assets.
+
+If something's not aiding in making the game enjoyable, it's kind of a waste. 
+
+Rather than just rolling dice and smooshing 100 random things together, it would be more interesting for players if you perform some kind of high order arrangements for some sort of coherence and flow.

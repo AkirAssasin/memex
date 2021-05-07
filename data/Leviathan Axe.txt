@@ -1,0 +1,11 @@
+In God of War, you can recall the Leviathan Axe after throwing it. 
+
+One of the first things the designers realized was that hitting enemies on return was an intuitive and satisfying outcome. Thus, they made the axe specifically move through enemies to ensure that it hits them if they're within a tight angle range. The axe also takes a curved path so you can see the axe nicely. 
+
+The animation was tweaked so you could see more of Kratos' upper body and not just his back. The initial recall moment and the catch moment were emphasized. However, they were very careful not to make it feel like Kratos can't handle the Axe - they balanced the effects so that the catch feels casual, like he does it all the time, but still carry some momentum through so you can feel the Axe's speed.
+
+If the Axe was close to you, it came back a little bit faster but was still visible. But, if that distance/speed was going to take more than 1.5 seconds, they would simply increase the speed to whatever was necessary.
+
+To make the Axe to feel like it wedged into surfaces, they added a 0.1 second delay in which the Axe wiggled before returning. It was that short because any longer made the player feel like their inputs were delayed.
+
+The sound emitter was attached to the Axe itself so that you can actually hear it come closer. The sound was also different during the initial triggering, flight, and right before the catch.

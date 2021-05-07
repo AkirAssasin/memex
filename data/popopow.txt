@@ -1,0 +1,5 @@
+To make players care about something like the story or atmosphere, tie it to an important mechanic like their health.
+
+Don't scale up numbers if everything has to scale evenly in the end - just keep them all as low as possible.
+
+When you have interplay between multiple important mechanics, it empowers interesting decision-making. Side objectives helps to widen the available priorities.

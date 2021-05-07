@@ -1,0 +1,29 @@
+1. What is The Story About?
+Be clear on the leitmotif, core, key pillars of your story. Everything rotates around it, everything is contextualized by it. The rest is for side quests.
+
+2. Exposition Management
+You have to present enough information for the player to continue the game, but not too much so that a player isn’t overwhelmed or bored.
+
+3. Exposition Value
+Present only the crucial information on the right occasion, to reinforce the spine of the story.
+
+4. Dedicated Segments
+Have dedicated segments for each part of the story. It will be more impactful because there is nothing else distracting the player from the part you're showing.
+
+5. Know Your Players
+Know the tropes your players are well-versed with, so you know what you don't need to repeat.
+
+6. Repeat
+Don’t assume your players will get all of your cleverly laid exposition. Drive the point down in multiple ways if it's that important.
+
+7. Stealthy Exposition
+You can sneak your exposition in minutiae details, into actions.
+
+8. Twists
+Twists can pave the way for more exposition to follow.
+
+9. Branching Scenarios
+If you have branching scenarios / dialogues then you can hide different expositions in the various choices.
+
+10. Osmosis
+Make exposition stand out, but don’t call attention to it. Repeat names and facts, but don’t shove them in the players' faces. 

@@ -1,0 +1,29 @@
+Primary control – thumb & index fingers. Flexible and precise.
+Secondary control – middle finger. Flexible but not so precise, usable for holding buttons.
+Support – ring & pinkie fingers. Weak and not very flexible.
+
+The most frequent actions should be in the most accessible places and match primary control group of the player’s hand.
+
+There’s always human attention limit for a number of simultaneous actions. There are different types of actions, with different attention demands.
+
+Primary actions – require active decision-making and constant attention from the player.
+State change – actions that switch states, often “hold” actions.
+Contextual actions – appear from time to time, require short-term periods of high attention from the player.
+
+From practice and numerous observations, the maximum limit of simultaneous actions for each hand is one primary action, one state change and one contextual action. One hand is always primary, so actions that require more precision should be assigned to the primary hand.
+
+If the player repeatedly performs a certain activity, eventually, it will be moved to a habit and become automated. Automated activities require much less attention from the player to perform. To decrease memory load and improve learning, divide controls into logical groups.
+
+Similar actions should be in one group. Group actions are much easier to move to automated state (WASD).
+Similar actions in different layouts should work on the same button.
+Divide simultaneous actions between two hands to make memorization easier.
+
+In many cases, players’ standard conventions or mental models have priority over the physical accessibility of the button.
+
+The correction cycle is when the player inputs something, then observes the response on the screen and sends new inputs. Good controls should not break the correction cycle.
+
+Affordances display the state of the system and allow the player to learn what to do without trial-and-error process. Any interaction in the game should have affordance, whether implicit or explicit.
+
+Game controls should allow players to communicate intention, not the raw signal. You can filter the raw input signal, for example ADSR curves or auto-assists. Keep in mind that regardless of the skill level, players want to have a feeling of mastery and don’t want to feel like they’re cheating. Control assist should work only to fit the player’s expectations about how the system should approximately react to the input. The more precise input, the less  assistance.
+
+Responsiveness provides predictability to game controls.

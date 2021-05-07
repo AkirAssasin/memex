@@ -1,0 +1,5 @@
+In The Horns, all player decisions came down to one question: will you risk X to get Y? The process of making the game consisted of looking at the various possible "tradeoffs" and making them into interesting pieces of narrative.
+
+Each chapter's narrative is made from randomized cards. Every single cards is tagged with its 'trade' type - what X to exchange with what Y. The probabilities of each card is then affected by what type of and how much resources the player has.
+
+Try to identify the smallest number of things necessary to convey a specific atmosphere.

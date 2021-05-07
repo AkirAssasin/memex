@@ -1,0 +1,1 @@
+Make it easy for players to creating meaning between random events. By using weighted and selective probabilities based on the current state of the game, you can create unexpected depth. Make choices meaningful.

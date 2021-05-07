@@ -1,0 +1,1 @@
+If there's a mechanic that you want to add to your game that is generic or is meant to be used frequently, you should consider making a keyword for it. This makes processing new information easier, use less space, gives it flavor and reduce perceived complexity. 

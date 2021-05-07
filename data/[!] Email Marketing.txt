@@ -1,0 +1,62 @@
+Email marketing is more powerful than Facebook and Twitter for getting people to buy your game, but it is vastly different from social media.
+
+Social media is very good at attracting attention, but it is really bad at getting people to actually buy your game.
+
+Email is personal and is most effective when you pretend that you are writing it to a single close friend. How many times do you email your friends with all that crazy graphic design? I bet it is just a regular old text email.
+
+Your email marketing should be where you share stuff you don’t tell any of the other social media platforms. 
+
+If you really want your reader to do something, send an email that is about only the one action you want them to perform. 
+
+You will greatly increase signups when you hand out a small freebie as part of the ask. The giveaway item is emailed as soon as they confirm their email and is theirs to keep even if they immediately unsubscribe. This little giveaway is called a “lead magnet”.
+
+Your lead magnet has to be something digital and appeal to the type of gamers who like your genre of games. It also has to be tangible and immediate.
+
+Your game’s OST, concept art book, short story, guides, companion games...
+
+Adding an email signup to your marketing material is good but adding it to your games is even better.
+
+Consider taking a short break to release a free micro-game that has a signup for your list. 
+
+The people who signed up for your mailing list are what is referred to in the sales world as a “cold prospect.” They most likely know nothing about you. Your mission now is to “warm” them up so they are more receptive to you. 
+
+Use auto responders to send several emails that give new subscribers a quick tour. Who you are, who else works at your studio, your studio history and any awards or sales records that you hit, the mission of your studio, tips for playing, describe and link to the other games you have made...
+
+Make it feel like a conversation.
+
+Your goal now is to keep your list “warm” so they do not forget about you. Email your list at least once every two weeks. The rule of thumb is that for every one email you send asking your list to buy something, you should sent three emails that give them something of value. 
+
+You have given a lot to your audience without asking much of them. Now that your game is for sale, it is time to ask them to help you. Thank them for being a fan and for being with you during the hard development process. 
+
+To get them to move you must create a sense of scarcity and a fear of missing out. You do this by launching your game with a limited-time discount. While on sale, you need to regularly remind your list that the sale is ending soon.
+
+Here is the general sequence…
+
+The first email goes out a week before launch. Tell them your plans about what the launch discount will be and how long it will last. Link to your store page (if live before launch.) If your game is on Steam, tell them to wishlist your game and explain to them why that is so important. Tell them how the stores work and how if they buy it day one the store will think your game is awesome and push it to the top of the “hot” charts. 
+
+The next email you send the microsecond after your game goes live on the store. Send a very short email with a strong call to action and a button: “Buy my game.” Don’t do anything else. You want this email very direct, very clear.
+
+A third email goes out on the last day of the sale. Make the subject line direct. Something along the lines “Last day to save X% on <game_title>.” Tell them the sale is almost over and that you don’t put your games on sale very often. Provide a “Buy it Now for X% Off” button. 
+
+Finally, email a few hours before the sale is over. Include a button that says simply “Final chance to buy on sale.” The last email you send will always outperform all the others before it.
+
+If you built a list long ago but never emailed them, you need to win them back. Write up a “come back to me” email sequence and have it start sending to everyone on your list. Your first email should give them something awesome as a “I am sorry I forgot about you” gift. Soundtracks work wonders. So do cool graphics. If you know how most of your subscribers joined your list, remind them in that email why they signed up.
+
+Quickly transition in the next emails to who you are and what your studio is all about and what game you are working on. 
+
+After your sequence runs, delete everyone who only opened one or fewer of the emails in your new sequence. Now start down the long but rewarding process of getting new subscribers. 
+
+Customers hesitate to buy an indie game because they have no idea if its well made, what type of game is it, and most importantly who made it. 
+
+This is the sales funnel model:
+Awareness (getting your product to their eyes) > 
+Consideration (warm them up by regularly sharing persuasive content) > 
+Purchase (remind them when the product is ready to buy) > 
+Customer (remind them to spread the news) > 
+True Fan (repeat with a new, better product)
+
+A well constructed funnel is not going to convert 100% of people. Just because someone is exposed to your game does not mean they are going to buy it. Player 1 made it through every stage. Player 2 did not because he realized the game wasn’t for him.
+
+You absolutely need to have a way to collect fans who move past the Awareness phase. Usually game devs tell people to follow them on twitter, but it is much better to ask them to sign up for your mailing list because everyone has email. 
+
+List out all the marketing tasks you are planning. Determine which layer in the funnel those tactics would apply to. Determine which layer you are ignoring. Determine what you want people at each phase of the funnel to do. Make sure you have some way for potential customers to follow you.
