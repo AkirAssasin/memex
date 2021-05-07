@@ -1,7 +1,7 @@
-# ignore all files in data first
-data/*
+# ignore all things with extensions in data first
+data/**/*.*
 
 # then un-ignore text, cpp and mmx files in data
-!data/*.txt
-!data/*.cpp
-!data/*.mmx
+!data/**/*.txt
+!data/**/*.cpp
+!data/**/*.mmx

@@ -1,0 +1,11 @@
+https://www.gamasutra.com/blogs/CalebCompton/20190715/346613/More_Than_Meets_the_Eye_The_Secrets_of_Dynamic_Difficulty_Adjustment.php
+
+Many games contain a category of typically-hidden mechanics known as Dynamic Difficulty Adjustments.
+
+“Rubber banding” is a mediocre form of DDA. It involves weakening or strengthening computer opponents to prevent the player from getting too far ahead or behind at any point. However, it can often feel obvious and unfair.
+
+DDA can also be achieved by adjusting random chances based on past events. In XCOM, chances of successful attacks rise as your team loses members or fail shots, although the displayed chances remain the same. In Mario Kart, players who fall behind are more likely to get stronger items. 
+
+Another common DDA is to track the player’s behavior and adjust the difficulty over time based on those metrics. 
+
+But difficulty adjustments don't have to be dynamic. Devil May Cry and Half-Life restricts enemy AI, ensuring that only a few of them would be actively attacking the player no matter the actual amount of enemies in combat. Many platforming and shooter games play with collisions to make it easier to achieve certain actions.

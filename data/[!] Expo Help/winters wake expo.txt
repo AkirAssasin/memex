@@ -1,0 +1,307 @@
+Exhibitions have a broad audience. If your presentation and marketing strategies can effectively deter people who wouldn't be interested, you'll get a higher concentration of interested people to manage.
+
+Test on the machines you intend to exhibit with as early as possible. Check their display settings to make sure the right colour tone is showing.
+
+Find a way to record or log playthrough information for bug-fixing or tweaking.
+
+Focus on "minimum viable product" and have planned milestones beyond that that you can expand into if resources allow.
+
+Wear shirts or accessories to make you easily identifiable as the developers.
+
+Know your environment before exhibiting! Some places are loud, so you might need noise-cancelling headphones.
+
+Hide the cables neatly!
+
+Having a stark signage can help stand out amidst common art.
+
+Give a little explanation for the things that people seem to be most likely to get caught up on.
+
+Some people may not get a chance to play. You might want to book times for press to visit to maximize coverage.
+
+Have a plan for handling queuing ahead of time just in case.
+
+Be prepared for impromptu interviews.
+
+==========
+
+It wasn't until I was nearly finished with this article that I finally sat down to start working through the game logs I'd captured. My first attempts at working through them were foiled by some busted timestamps (a combination of a couple of bugs with the way that I'm putting together the first log entry), and I figured that it'd be easier to come back later with a bit more focus instead of trying to do detective work to piece everything together properly. That timestamp issue had also lead me to believe during PAX that I'd accidentally overwritten the first day's logs on one computer, so it was a pleasant surprise to discover that everything was salvageable when I did finally dig in.
+
+After a full day's worth of munging and wrestling with LibreOffice quirks (it turns out if you fill down an array formula in just the right way, the array gets expanded over multiple cells, making them impossible to edit, clear or unlock. Hooray!), I managed to calculate play session durations and draw a bunch of interesting numbers from that[6].
+
+A screenshot of a cutscene indicating the end of polished PAX content (running in debug mode).
+For most people who encountered it, this cutscene signalled the end of the game. For a few others, it was just the beginning.
+
+Across PAX Australia's three day run, plus some extra hours on Friday for Interface, Winter's Wake managed to have a total of 204 players, who cumulatively played the game for a little over 46 hours. Of those players, 41.7% played through to the end of the content in the public demo, and a bit under half of those played through the extra semi-polished content I'd prepared specifically for PAX. Beyond that, there were three or so players who set out to explore the rest of the game's world that I'd left in for the super keen to discover.
+
+The game sat idle for nearly 9 hours, the majority of which happened on Friday, likely in the lead up to/during Interface, where there weren't queues or crowds, and I only interacted with the few people who sauntered around to take a look at the stands. The game only crashed on the Debian machine, which surprised me (but makes sense, since it had far less RAM than the Mac). The times that I'd assumed there were crashes on the Mac must have been times when a player quit from the main menu, but was too shy to say what had happened. It crashed a total nine times across the three day event, which was in line with the estimates I'd drawn from the first day.
+
+My memory of the event was that there was one woman who played for over an hour, but the longest individual play session that I can find in my logs was 40 minutes (still a long time to play at an event like PAX!).I also hadn't spotted anybody who sat down to play and then immediately left, but sifting through the logs revealed a couple of players who skipped the intro after a few seconds, wiggled the mouse around, mashed some buttons and then left. The shortest of these lasted for 69 seconds and really gives a sense of impatience from reading the log. The in-game "readme" was viewed a total of ten times, and the game's credits were viewed once.
+
+A screenshot of some logging data from PAX.
+The Icicle engine's logs are parseable as CSV files and will open in any spreadsheet application.
+
+Average playtime was a little shorter than I expected, and likely brought down by some of the shorter play sessions that I hadn't spotted as well as the times I restarted the game to quickly show off the editor tools or debug mode. Average play session duration across the event was nearly 14 minutes, increasing steadily from 12 minutes on Friday to 15 minutes on Sunday. Alongside this, the total number of players dropped significantly from 90 on Friday to 59 on Saturday and 55 on Sunday.
+
+204 players isn't a huge sample, but these are still interesting numbers to look over and infer a little meaning from. 14 minutes for an average play session still feels long for a bustling event like PAX, especially for a slow, quiet adventure-game-ish thing. I'm still impressed by the 40 minute play session, but it's also possible that there were some players who played for a little while and then started again.
+
+I haven't had a lot of time to look at behavioural trends between the play sessions yet, but it has been fun to look at a few individual cases and draw some conclusions from those as I did with the shortest play sessions. Looking at when players check their inventory, how those few players who delved beyond the "The polished content ends here" notice approached exploring, and how long people wandered around for before spotting the road leading south around the village wall all feels like peering intimately into players' experiences. I'll be able to use this kind of information to help me spot points where a puzzle might be tricky or where an object might be difficult to spot - I don't always want to steer away from this, but being aware is never a bad thing.
+
+A screenshot of my log processing spreadsheet.
+As a hobbyist stats junkie, this stuff makes me excited.
+
+A future feature I'm planning to add to the engine will allow me to play back these logs in-engine so that I can watch an approximated replay of players' actions. I'll likely revisit these logs in more detail then, but for now, I'm content to know that I've got a bunch of metrics to view my PAX experiences through and a whole lot of play logs to work through any time I want to focus on that kind of work.
+
+Day 1 (Fri)
+Day 2 (Sat)
+Day 3 (Sun)
+0
+50
+
+Total recorded play sessions per day.
+
+Day 1 (Fri)
+Day 2 (Sat)
+Day 3 (Sun)
+0
+5
+10
+15
+
+Total recorded playtime per day in hours.
+
+Day 1 (Fri)
+Day 2 (Sat)
+Day 3 (Sun)
+0
+5
+10
+15
+
+Mean play session length per day in minutes.
+
+For anybody super keen on more detail, I've also uploaded a copy of the calculated stats that I've derived from my play logs.
+
+Logs are cool
+Logs are really cool
+Logs are really really cool
+↑return to page top↑
+Personal impact
+
+PAX preparation hit me hard and fast. I'd been working solidly on Full Throttle Remastered for most of 2017, and afterward immediately dived into Winter's Wake dev. Uncertain of whether I'd have the game at a level that I wanted it to be before exhibiting, I left my application until the last minute. When the response came back, I had to work doubly hard because most of the submission deadlines for forms and artwork were passed or imminent.
+
+Since Winter's Wake is unrated, I had extra hoops to jump through, since PAX has a rule about not exhibiting unrated games without approval. The game's presentation makes things less explicit, but thematically, it touches lightly on some topics that may be confronting, and there are a some depictions of violent acts[7]. I felt that it was important to be thorough and address the approval request form's questions in detail, but I also recognised that it might be possible to get the wrong idea about how the game is interacted with and how its content is presented. I also wasn't sure how much content I would be showing at PAX, so I needed to include detail on the largest possible version. Approval didn't arrive till the 19th of October (three days before my flight), leaving a very large and very stressful level of uncertainty hovering over my head for almost all of my pre-PAX preparation as I worked long hours and haemorrhaged money.
+
+Me in front of my stand.
+We call this type of photo a "self portrait".
+
+Financially, exhibiting at PAX has been a large blow (more on that below), but it was something that I was able to budget for with money from my Full Throttle Remastered contract. This meant less money for living expenses and house repayments, but that was something I chose and was in a position to absorb. That said, I did have a lot of unplanned/unnecessary expenses as a result of mistakes and poor decisions, and that was pretty disconcerting.
+
+The level of work I needed to do before I left had me lowering the priority of sleep, exercise and relationships more than I'm comfortable with. This is definitely a failing of mine and something I try to be conscious of/work to correct. I've come a long way since the days when I used to sleep three nights a week, but it's still an area I need to improve upon.
+
+When I arrived in Melbourne, I took two days off. Partly because I didn't have power or internet access thanks to late check-ins, but mostly because I needed the rest. I spent most of my time in the Melbourne Royal Botanic Gardens walking, photographing plants and birds, and having naps. I got rained on and I got sunburned, but those two days were the most relaxing and most happy of the weeks surrounding PAX. This little break helped me feel refreshed and ready to tackle the coming week.
+
+Me in front of my stand.
+Arriving early gave me a buffer period between the stress of travel and the stress of exhibiting. I feel like that gave me the opportunity to ensure that whatever last minute work I did was less rushed and more focused.
+
+Sharing accommodation with Nart was a nice chance to catch up and hang out with a long distance friend. I work from home and spend a lot of time alone. Getting used to co-existing with others can be a bit of a hurdle, but I think it's a worthwhile thing to do every now and again. Nart's experience with exhibiting his own game and his enthusiasm for mine made for a supportive environment to come home to that I was very appreciative of, and keenness to drag people over and/or recommend that they visit the stand definitely played a big role in the level of attention Winter's Wake received.
+
+Caroline assisted me with buying gear, and hung around to test the PAX build while I was working on last minute polish in the days leading up to PAX. I couldn't have done the level of testing we did on my own, and her assistance with set up and talking people through the game during PAX was invaluable. Caroline's company, enthusiasm, and willingness to speak up when she has an idea not only helped the event itself run smoothly, but also let me feel safe and confident that my game and I were in good hands.
+
+I don't normally spend much time away from Mim, so having her join me the day before PAX was a big comfort. Her love and support helps make everything a joy (when she's not tired or hungry), and her deep familiarity with the project gave me confidence and trust in her ability to represent the game.
+
+I've run Two Lof Bees stalls at local conventions before, but this was the first time I'd ever exhibited a game at an event of this scale, and it was definitely beyond daunting. Normally I get through these kinds of things by putting one foot in front of the other. In this case, the attention and positivity from other developers (both old friends and new ones) let me feel welcome and at ease. I don't think I've had so many back pats or vigorous handshakes in my life. One thing I did want to highlight specifically that speaks to the generosity and attention of the developer community was Damon Reece dropping by to give me some throat lozenges. Completely unsolicited and out of the blue, but very well timed and hugely appreciated.
+
+It was also super nice to see friends drop by to say hi. Many people from various communities I'm a part of also made time to stop by my stand in the midst of PAX's busyness to say hi and see how I was going. In most cases this was amplified by seeing people that I don't have the opportunity to interact with face to face. In the case of friends who play or develop less conventional games, I also felt a little bit like I was representing them, and whatever level of success a game like Winter's Wake had could in some ways be shared by other text adventures or narrative experiences or awesome weird stuff that might not seem like an intuitive fit for the PAX environment.
+
+A map of the Winter's Wake demo that a PAX attendee drew on the back of a business card.
+SOMEONE DREW A MAP \o/
+
+As I mentioned earlier, the personal connections that people had with In the Snowy Winter's Wake and the stories they told me were among the most valuable and meaningful outcomes from PAX for me. The data that I've gathered from the game logs has practical value, but very little emotional weight. Seeing wonder at work within players as they discover something that goes places that are beyond their expectations is exciting. Seeing the game provide a starting point for discussions between players and their friends or family members, or between them and myself reminds me that culture is what provides the frameworks through which we see and understand the world around us - as cultural artefacts, games allow us to connect with ourselves and with others through the ideas, memories, and inspirations they evoke and invoke. This might not be the main reason or even a reason that people make games, but it's moving to witness when it happens. Also, that map ^_^
+
+At this point, I feel that I should make a confession. I wasn't quite as tired as my shirt made out. Although the ambient volume level had me pushing my voice harder than I'd have liked, I was carefully monitoring and managing my energy levels to make sure I wouldn't exceed my limits and keel over before PAX ended. By necessity, this extended to after hours as well. With the exception of Interface, I didn't attend any evening events across PAX, preferring to get a little work done on my game and get as much sleep as I could fit in. I'm pretty confident that if I had've attended the various evening parties/events I'd been invited to, I wouldn't have made it through PAX.
+
+And this brings me to the one thing that stands out as being significantly negative about my experience exhibiting at PAX Australia. I was disappointed to not get the game closer to being finished before PAX, and I was frustrated by discovering that the last second that OS level shortcuts were being triggered when Escape was pressed on my Mac, but these were things that I was both prepared and equipped to take onboard and deal with. The volume levels on the expo floor on Saturday and Sunday were not. Having sensitive hearing and a quiet game that doesn't exhibit well are things that affect me personally which might not be an issue to others, but beyond that, I am certain that conditions exceeded 85 decibels for periods long enough to cause lasting hearing damage thanks to a "loudness war" between large exhibitors with PA systems that pushed the ambient volume levels up across the weekend.
+
+The Enforcers (PAX volunteers) on the expo floor showed concern and empathy for my complaints (when they could hear me, that is - at one point, shouting from 1.5 metres away wasn't enough to be heard), but unfortunately, their actions weren't able to improve the situation.
+
+A low shot of the Winter's Wake stand sign.
+The Winter's Wake stand signage did a good job of looming.
+
+Many people may see this as being normal enough that it should be overlooked. To me, that indicates the normalisation of danger, and that is something even worse. These conditions make for an unsafe work environment, and it is both naive and unsustainable to see sacrificing the health of the industry's creative people as an acceptable exchange for visibility - we pay money for that. I regret not bringing audio monitoring equipment along with me so that I could assess and properly record volume levels, but not as much as I regret exposing myself and my volunteers to those conditions.
+
+Prior to the start of each day, I adjusted the volume on my noise cancelling headphones so that the game would be comfortably loud without exceeding safe ranges, but multiple people on Saturday and Sunday requested that it be increased. Not only do high volume levels put exhibitors at risk, but they also put attendees at risk.
+
+After PAX ended, I took some time out to go ice skating with Mim and Caroline. I'm terrible at ice skating, but I love it with all my heart (you don't have to be good at something to enjoy it!). It was nice to unwind in a way that let me focus/exert myself in something that let me put PAX reflection to one side and just appreciate the cold wind in my hair. I also went out for dinner with Refund, the composer working on my 64x64px space exploration/trading/combat game Hidden Star, where we mostly ignored PAX and chatted about other things (including a cool approach for increasing apparent variation in music without a lot of extra overhead).
+
+Surrounding yourself with people you trust to look after you makes everything less stressful
+Your fellow game developers will often be supportive
+If you're exhibiting solo or with a small team, carefully monitoring and moderating your energy levels is important - taking breaks when you need them is critical
+Taking time out to rest a few days or a week ahead of a big event can help you be more clear headed with last minute decisions
+Seeing your game prompt meaningful interactions/reflection in others is wonderful
+Taking time out after a big event to immerse yourself in things that define you can help you be centred and less consumed by the experience
+The PAX expo floor was not a safe work environment - make sure that you consciously manage your exposure and the exposure of your team to whatever condition you find yourself in
+↑return to page top↑
+Expenses
+
+Whenever I talk about the costs associated with exhibiting, people often seem surprised (with the exception of those who've exhibited before). Travel isn't cheap, stands aren't cheap, and pulling together all the bits and pieces to make exhibiting possible isn't cheap either.
+
+If I were to make a ballpark generalisation based on my experiences, I'd say that if you run a tight ship, exhibiting at PAX is likely to cost a bit over double what attending would cost. At the very least, you still have the same travel, accommodation and food expenses, though depending on how you transport and store your gear, you might end up with different requirements. For example, I could have stayed in a shared dorm in a hostel, but I would have felt a bit less comfortable stowing my laptops, headphones and screens next to my bunk or in timed lockers (there's nothing more fun than miscalculating expiry times or getting stuck somewhere and then returning to find an open locker). That said, I intentionally tried to stay close by and exhibit with lightweight equipment so that I could avoid transport and storage overheads.
+
+A photo of some of the equipment I had planned or attempted to use for PAX, but was not able to.
+A photo of some of the equipment I had planned or attempted to use for PAX, but was not able to.
+
+In the leadup to PAX, I spent a lot of money on things that either didn't end up being used, or were a little superfluous. For example, I spent over $550 on headphones before I found the ones I ended up exhibiting with. I found other uses for those other headphones, so the money isn't entirely wasted, but within my PAX budget, that's $550 worth of expenses that didn't get me anything of value.
+
+On the flipside, I tried to make use of as much existing equipment as I could, using gear that I already owned, such as laptops, keyboards, A4 display stands, my badge press, and so forth (I would have taken mice if I hadn't lost one of the two spares I was planning to use). Instead of shipping equipment via freight, I carefully packed everything I needed for exhibiting as well as clothes and ice skates into my 90L hiking pack, which let me be (more or less) completely mobile on foot until I got the monitors I'd purchased in Melbourne.
+
+I did manage to offset some of my costs, though. Before flying over, I put out word that I'd have two mostly-unused monitors that I'd be happy to find new homes for. I was able to find some friends who offered to pay full price for them and pick them up on Sunday after the expo hall closed, so they ended up being cost-neutral. This also meant that I didn't have to find a way to safely ship them home (though, I think I would likely have tried to donate the screens to The Arcade if they had use for them instead of bringing them back with me). Nart also generously offered to cover/refused to accept money for accommodation costs, which had a big impact on my bottom line.
+
+To thank Caroline for her help, I shouted her dinner a couple of times and also gave her the plastic tubs I bought to raise my laptops off the floor. I bought a couple of extra Winter's Wake t-shirts to give to some of my long-time friends/supporters. I also forked out some money to go ice skating and marked these kinds of things as unnecessary in my cost analysis, but in terms of looking after one's self and one's team, they're pretty important.
+
+PAX Aus 2017 expenses summary: Gear costs $5.1k; Food and accomodation costs $2.3k; Total costs before offsets $7.6k; Total costs after offsets $6.2k; Total costs after offsets minus extraneous costs $3.5k
+A summary of my PAX Australia expenses summary broken down into "necessary" and "unnecessary" costs.
+
+After running over numbers and weighing up what I could flag as "necessary" and "unnecessary," and taking into account recovered/offset costs, I've arrived at two figures that I'm paying particular attention to. The first is $6,203, which is the amount of money that exhibiting at PAX Australia cost me, including all the purchasing mistakes and "unnecessary" expenditures along the way. I don't regret this, but it's super important to have awareness of in the context of the next figure when thinking about planned costs vs unplanned costs. The other figure is, of course, the total "necessary" costs, which adds up to $3,542.
+
+A bit over half of my expenses were things I could have cut if I had to. Some of these are obvious - if I could go back in time and avoid buying things like the headphones and the Raspberry Pi that I didn't end up using, I think I'd do that, and then weigh up the uses that I've found for them outside of the PAX madness. Others are things that I wouldn't budge on, but still like to have awareness of, such as ice skating or accommodation costs for extra nights in Melbourne after PAX was over. That said, it's impossible to predict everything - you can't think of stuff you've forgotten, otherwise it wouldn't be forgotten anymore. Having an understanding of the scope and scale of unforeseen expenses makes it easier to have a feel for how much to allow for in the future.
+
+Necessary Gear (48.04%)
+Necessary Other (9.06%)
+Unnecessary Gear (26.69%)
+Unnecessary Other (16.21%)
+
+Breakdown of total expenses minus offsets into "necessary" and "unnecessary" gear and accommodation/travel/food.
+
+It's also worth noting that what I assess as "necessary" and "unnecessary" is greatly influenced by my status as an independent developer, getting by with second hand gear and without paying myself. If I were running a company with employees, I'd be paying wages, covering additional insurance, and organising separate accommodation for my team.
+
+For a more detailed list, I've uploaded my expenses breakdown in case it's of value to anybody.
+
+I suspect that some readers may have been hoping that I would be focusing on whether or not PAX was "worth it" in this section. From a financial point of view, it's very difficult for me to address that directly without having a game that's ready for sale (and since I forgot to mention other methods of supporting development, I'm not surprised to see that there hasn't been much movement on that front either). I also haven't exhibited at any gaming events of scale (not that we have many here) to offer a comparison to. The best I can do is be open about what my overheads were and let others weigh that up for themselves.
+
+Awareness of expenses is important for informing future budgeting
+If you can offset your expenses by on-selling gear you don't need, that's great - if you can make an expense cost-neutral, even better
+It's important to allow some money for self-care and looking after your team
+Unforseen expenses will happen - budgeting to keep a buffer aside can make that less stressful
+↑return to page top↑
+What would I have done differently?
+
+My intentions for exhibiting In the Snowy Winter's Wake at PAX were always to give me an experience that I could learn from, to see what results my existing instincts and insights could lead me toward, and to see what new ideas the experience itself would inspire.
+
+I had a few things that I had wanted to do, but either ran out of time or resources to achieve, as well as some ideas that probably weren't so great. For example, I'd considered looking into how much work would be involved in getting a lenticular imitation of the in-game compass together that appeared to rotate correctly as you moved past it, either to go on the stand's sign or to go onto my t-shirt, but the effort involved seemed high and the likelihood of it looking good low.
+
+I toyed with other ideas for "merchandise" and affectations such as a bandanna covered with the title text from in-game objects' descriptions, and a similar shirt, but didn't get around to designing either. I also back and forthed on whether getting postcards with the new mountain design on them would be worthwhile, but eventually decided to not for no reason other than that I was already spending a lot of money on other stuff and this was an easy thing to cut. In hindsight, I think there might have been enough interest to justify getting a few hundred.
+
+A photo of Winter's Wake and Cheese Talks business cards.
+All of these cards disappeared so quickly.
+
+I definitely would have ordered more business cards (and updated the design to not say "in-development"). Taking into consideration that there are people who will avoid taking things when they see a shortage, I'd probably go as high as 1,500 cards, though that increases the risk of winding up with leftovers if your game isn't getting a lot of attention (not a problem for me since I had plans for leftovers).
+
+As mentioned a few times, I would have popped the game's URL on the stand signage to squeeze another point of contact into all those photos that people took of the stand. I feel like some kind of hashtag or similar to help me find and track the game's propagation through social networks would also have been of benefit.
+
+While thinking of a way to get useful feedback from players, I considered taking inspiration from Chris Johnson's experiences with exhibiting Expand and invite players to write down a single word or short sentence about what the game meant to them. I would have stuck these to the blank spots on the lower part of my stand's signage and collected them at the end of the day. I really like the idea of inviting players to distil their thoughts down into something small. It requires a degree of reflection that often doesn't come out when having a quick post-play chat. My plan was to look at getting custom shaped dark green sticky notes done in the silhouette of the mountain that people could write on with a white pen, and when I ran out of time to do that, just dark green sticky notes, but those proved hard to find and the idea of sticking tan coloured notes on didn't really get me excited. It also turned out that in reality, the obscured space was awkward to get to, so this would have been tricky to make work anyway.
+
+A photo of the Travel Pig.
+While writing this article and reflecting on how great it was that somebody drew a map, it occurred to me that a small pad and a pen that people could write, scribble, scrawl or draw whatever they liked on could have been a nice/affordable option. I'd likely have had these custom printed with the mountain, game title, URL, etc. at the top and some space for people to write some contact details (email address, or whatever else suited them) at the bottom. I'd file the page away when a player finished, or alternatively, take a photo and let them keep it. This would have given me some fun stuff to analyse after the event, and potentially also a list of people to reach out to when I had updates on the game/give attribution to for anything that I used their scribbles for.
+
+As mentioned earlier, I would have liked to have gotten the game close to finished or even completed entirely before exhibiting. At the time that I exhibited, I felt like I was in a bit of a middle ground - beyond the point where my planned crowdfunding campaign to support the rest of development didn't seem quite as critical any more[8], but with enough development left to do that there was no way I could launch the game at/around PAX. Either of those feel like they're points at which I could have drawn increased benefit from the visibility I had at the event, since the game has a high novelty value and it makes sense to make the most of as much enthusiasm in the moment as possible. Both of these options would definitely have required additional attention/time though, which I would have to have brought additional people onboard to help cover.
+
+A screenshot of Winter's Wake's in-development VR mode.
+As part of the development I would have liked to have gotten done, VR support is something that I really would have liked to have had polished to a point where I was comfortable showing it off (I even went so far as ordering Winter's Wake stickers, which never arrived, to put on my Vive). I feel like it would have been a significant attractor and would have had a big impact on the amount of enthusiasm and coverage the game's presence at PAX generated. That would have brought in some extra concerns though, with regard to space - In the Snowy Winter's Wake works as a seated experience, but players are effectively blind folded and allocating space around players who can't see is super important. I likely would have needed extra approval to tape out a safe space for players to exist within. I think also that there is a potential risk of driving away players who are specifically not interested in VR experiences that I would have had to have weighed up and accounted for with the presentation of the game and its stand.
+
+Another thing that I missed out on implementing was some additional music. Anton gave me a handful of tracks, and I was able to squeeze some into the post-demo content that I'd made accessible, but the real treasure (that I'd reworked the music handing system to implement) is hidden in a later section of the game. If I had've been able to polish up the rest of the content, I would have felt comfortable popping in a shortcut to access that outside of the game's narrative just because it's so good.
+
+A GitLab log showing some commits from pre-PAX development.
+A commit log showing some pre-PAX development work, including a new music handling system.
+
+My strong development focus in the leadup to PAX meant that I neglected a few other things that I would have given more attention to in hindsight. Giving the website an update, publishing an updated demo, adding a press kit, and so forth would have made it easier for press and excited players to find out more and experience more outside of the event.
+
+On the note of press, I definitely would have liked to have contacted people ahead of the event and tried to book times to have chats, but I think also having a spare laptop and a tiny bit of desk space spare to pull out another machine when there were big queues would have helped.
+
+It wasn't until I got home that I realised that I didn't promote my Patreon campaign at all (this was before the announcement of their proposed fee changes). Since this helps support me working on the game, and has also provided funds that have directly benefited the production of the game, this feels like it would have been relevant and useful. I would also have liked to have thought to let players know that I'd be happy to hear from them/chat about their experience outside of PAX.
+
+Jasmine and Anton's contributions are an integral part of both Winter's Wake's existence and its identity. I would very much have liked to have been able to give them some presence and to specifically highlight their work. Perhaps this could have been done as an insert in the stand signage, or as another A4 display stand (not that I had room for one of those. It could also have been via voiced additions to the in-game "readme," but since few players looked at that, it wouldn't have been very effective. If I had the budget, I would have offered to fly them over as well, but that's a bit more costly.
+
+While I am immensely thankful to Mim, Caroline and Nart for stepping up and helping out around the stand more than I'd initially asked them to, I feel like it would have been better for me to have planned for a lot of attention as a contingency and assessed their comfort levels and availability ahead of time. A roster would have let me manage their exposure to the expo hall conditions and made sure that they got frequent rest/breaks. It would also have let me feel more comfortable ducking off myself if I had needed. One or two extra stand-by people probably would have been valuable as well had I had any suspicion that Winter's Wake would have gotten half the attention it did.
+
+A photo of the game compiling on Sunday morning.
+Similarly, while I think that we did a good job of handling that attention given that we weren't prepared for it, I should also have put together a system for handling queuing. On Saturday, after I'd accidentally pushed some people in front of others who had been waiting, I set up an impromptu coordination system that had us interrupting the other volunteers to let them know when we added someone new to the end of the queue. This was effective and less disruptive than messing up queue ordering, but it was still disruptive and could have easily not worked if any of us hadn't been paying attention. I did hear of another developer who had a clipboard with a list of times on it, allowing players to "book" a time to come back instead of waiting in a queue (presumably empty time was filled ad-hoc), and I think this could have been a good fit for what we had going. I suspect that this would have impacted on the ways that crowds formed around the stand, though.
+
+It would have also been beneficial to have a person set up to photograph the stand and crowds (I'd hoped to do that myself, but it was busy enough that the only time I was really able to get my camera out during opening hours was when I absolutely had to get a photo of that business card map). There were a few photos taken by friends that I've seen, but it would have been nice to have someone who swung by regularly and had a chance to observe and capture the ebb and flow across the event.
+
+A little more technical and specific, if I had more time, I would have liked to have written a log cycling script that automatically moved logs to date named folders. I did this by hand on the morning of each day and managed to throw myself into a panic, believing that I'd accidentally overwritten one of the previous days' logs. A little less rush and a little more focus would have helped that, but a script that handled naming automatically and avoided overwriting would have been faster and more reliable.
+
+I had considered submitting talk proposals to both Unite and GCAP. I feel like my experiences with assisting other developers with shipping numerous Unity games on Linux/overcoming Linux specific would have been a good fit for Unite, and a talk on my experiences of working on Full Throttle Remastered and Day of the Tentacle Remastered could have been wrangled to touch on the GCAP "ripple effect" theme. These were among the first ideas I discarded when it became evident that I'd need to work hard to get Winter's Wake up to a point where I could exhibit it, but I think that if I had have been able to do either of those talks, a little extra mindshare among developers could have amplified my presence even more.
+
+I had initially planned to take some time each evening to reflect on the day just gone and write some brief notes on what I'd learned. Unfortunately, with the intensity of the event itself and the development I was doing in the evenings, I only managed to do that on the set up day. I wrote a short summary of reflections after packing up on Sunday, which went something like this:
+
+Very small PAX recap
+A quick recap of PAX tooted on Mastodon after the event.
+
+Which brings me to the final thing I would have done differently: knowing how things turned out, I'm really not certain that I would have exhibited. I had a lot of positive outcomes, and I am definitely keen to make the most of my time at PAX, but the discomfort and pain I experienced as a result of unsafe volume levels, and the risk that I put my volunteers at make me uncertain. It disappoints me to end on such a note, but this is something that continues to weigh heavily on me, and feels important to highlight.
+
+It seems too often that unhealthy conditions are seen to be "just the way things are," and that it's not uncommon to come across narratives that celebrate unnecessary sacrifice and suffering either for the sake of art or that attempt to dismiss concern by framing being thankful for opportunities as being incompatible with striving for positive change. The idea that events like PAX should be inaccessible to anybody who can't cope with its conditions feels reductive and resistant to improvement in a way that seems to be at odds with the PAX Rising spirit of giving a space and a voice to smaller developers who don't have the power or the reach of bigger, louder players in the industry.
+
+Before anybody takes away the wrong idea here, I do think it's wonderful that we have an event like PAX in Australia, and I look forward to seeing it continue to improve both for exhibitors and attendees in the future. I don't think that that improvement can happen without shining a light on the shortcomings it has, especially when they represent health risks.
+
+Having more stuff on the stand for people to check out/take would have been better - I'm sure there's a saturation point, but I didn't hit it
+Having more URL presence, and suggested tags/hashtags for social media would have helped the game be more identifiable online
+Offering a way for players to offer considered, reflective feedback would have been nice
+Either having the game finished or far enough away from finished that I could have done PAX during the last quarter a crowdfunding campaign feel like they would have been ideal states for the game to be in when exhibiting
+Having VR support on display would likely have helped draw more people in
+Updating the game's website and making a press kit available ahead of time would have helped press coverage be more consistent
+Having a sneaky spare machine to pull out to allow friends or press to bypass queues would have been helpful in getting more coverage
+Having pre-organised time for press people to drop by would have been helpful in getting more coverage
+Having a pre-organised queueing system instead of making it up as we went along would have helped avoid some mix ups
+Remembering to mention how people can support the game's development would have been beneficial
+Having some way to give presence to other contributors to the game would have been super nice
+Properly organising contingencies with my volunteers in case things got busy rather than being lucky that they were available would have been sensible
+Scripts for daily backups, log rotations, etc. would have been more robust
+Speaking at industry events ahead of PAX would likely have helped me have more visibility
+↑return to top↑ 
+
+A note from cheese
+A note from Cheese
+
+Thanks for reading!
+
+If you'd like to know more about In the Snowy Winter's Wake and its development, you can visit winterswake.com, check out the updated demo on itch.io, follow @WintersWakeGame on Twitter, watch the Winter's Wake playlist on YouTube, view the Winter's Wake tag on Patreon, or even go all the way back to the beginning and read the dev blog posts on the 7DFPS website.
+
+This article has been a long time in coming, so for anybody who's been hanging out for it, thanks for your patience.
+
+Thanks also to Peter Thompson from ReedPOP (the company that organises/manages/runs PAX Australia), who offered me what was apparently the last remaining PAX Rising stand even though my application was super late.
+
+An extra big thanks to all my friends and colleagues who either dropped by to say hi or who took time to reach out and say something supportive in the lead up to/during PAX.
+
+And the very biggest of thank-yous to Caroline, Sanatana and Mim for their support and assistance across PAX. I couldn't have done it without you!
+
+All photos except for the two indicated in the Player reception section (thanks Mim!) were taken by me. More photos from my PAX 2017 trip (by which I mean, a handful of photos from PAX and a whole lot more of birds and flowers) can be found on this Flickr album.
+
+[1] This kind of compliment has always bemused me, but in this case, it feels like it directly misrepresents the kind of work I've been doing here. I've been working my backside off to create and improve the world around me, but I'm not doing so in ways that are destructive. The hurdles I've been facing have been navigated through understanding rather than force, and I haven't really cleared way for those that follow behind so much as left a small trail of bread crumbs as I wend and weave my way through them. I'm not deconstructing or breaking downperceptions or prejudices in any meaningful way so far anything related to Winter's Wake goes.
+
+The only thing I could really be seen to be breaking here is convention and even then, it's not done lightly and to be honest, I feel like I'm leaning on more convention than I'm actively working against.
+
+I do thoroughly appreciate the positive sentiment, though.
+
+[2] Hello! If you are this person (or anybody else who played In the Snowy Winter's Wake at PAX), I would love the opportunity to chat some more with you about your experiences! Drop me an electric metaphorical line.
+
+[3] Exhibiting at PAX Australia gave me voice, visibility and prominence beyond what developers who work on more traditional text adventures and interactive fiction might typically have. Because of this, I feel that I have a responsibility to highlight that text based experiences never really went away.
+
+Sure, some evolved into alternative, more "modern" takes on how text can be presented to players (which Winter's Wake/Icicle definitely fall into), but there are rich and vibrant communities of people making more traditional stuff with Twine, Inform, TADS, ChoiceScript, and so on. IFComp, an annual interactive fiction competition in its 23rd year had nearly eighty submissions in 2017 alone, and is probably one of the best ways to get a cross section of what people are making/exploring. The IntFiction.org forum has thousands of users sharing, discussing and coordinating works. These two places may be two of the main hubs around which the broader interactive fiction community revolves and the best starting points for easing in, but there are yet more pockets of creators and players squirrelled away.
+
+My point is that if you love this stuff, it's out there. Go find it, play it, celebrate it, and signal boost it. The best thing you can do for interactive fiction and text adventures is let the world know that they're not dead!
+
+[4] These pre-release Icicle Jam events are geared towards supporting development by giving feedback on editor tools and suggested workflows.
+
+If you are interested in learning more and would like to express interest in participating, or if you'd like to talk about functional requirements for a future Icicle engine project, shoot me an email and we can discuss what's involved!
+
+[5] I've been super wary even state that here. So much of the impact that Winter's Wake seems to have on players is supported by a sense of wonder at discovering something new and not really knowing where things might go. When I talk about expectations and preconceptions that I'm intending the game to make use of, that draws focus onto things that are probably best left as subtle nuances. Let's just pretend I didn't bring it up :D
+
+[6] If you're super interested in this kind of stuff, I streamed myself working on it. An archive can be found here. It's long and it's boring, and I forget to update the window that I'm streaming a few times, but if that's what you're into, enjoy!
+
+[7] If a prospective player asked me whether Winte'rs Wake was a violent game, I'd likely answer no, but for a content rating assessment, it feels super important to not gloss over anything. As with [5], this is not something I really want to bring attention to or have players fixating on at the beginning of the game.
+
+[8] I'm in two minds about crowdfunding for Winter's Wake. On one hand, the security/peace of mind of having some dedicated money to fall back on would be nice. On the other hand, I think that if I can get through the rest of the game without it (which I believe I can), then it's best for me to just focus on development instead. Anybody who really wants to support me has other methods to do so.
+
+If you've got any thoughts on or questions about this article, you can email me at cheese@cheesetalks.net.
+
+This article was first published on the 2nd of February 2018.

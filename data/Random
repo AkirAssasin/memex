@@ -1,0 +1,5 @@
+A twitter thread by Chevy Ray (@ChevyRay)
+
+Randomness doesn't always look good, because our brain tends to be more attracted to patterns. 
+
+When randomness causes VFX to cluster together, it looks odd. Instead, you could randomly offset from a preset, well-distributed pattern. For example, looping between a few positions when spawning particles, or evenly distributing positions and angles before randomly offsetting.
