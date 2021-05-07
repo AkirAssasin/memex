@@ -46,10 +46,6 @@ function insertCompiledIntoMemex (compiled) {
         var summary = lines[i];
         var source = lines[i + 1];
 
-        // huh what
-        console.log(summary);
-        console.log(source);
-
         // insert element into container
         insertElementIntoMemex(summary, source);
     }
@@ -59,7 +55,7 @@ function insertCompiledIntoMemex (compiled) {
 function insertElementIntoMemex (summary, source) {
 
     // make html element
-    var div = "<div class=\"memexElement\"><p>" + summary + "<p>";
+    var div = "<div class=\"memexElement\" mmx-source=\"" + source + "\"><p>" + summary + "<p>";
 
     // add read-more button
     if (source != "") {

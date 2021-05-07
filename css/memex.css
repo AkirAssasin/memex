@@ -85,13 +85,6 @@ body {
     text-align: center;
 }
 
-#memexPopupHelper {
-    
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-}
-
 #memexPopup {
 
     /* reset cursor appearance
